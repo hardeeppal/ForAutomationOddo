@@ -1,0 +1,76 @@
+{
+  "uid" : "469e6352d0ed90b8",
+  "name" : "footerLinkTest",
+  "fullName" : "org.example.FooterLinkTest.footerLinkTest",
+  "historyId" : "956d132ce57aa37f2d4be324ce45fdd",
+  "time" : {
+    "start" : 1600859881016,
+    "stop" : 1600859922844,
+    "duration" : 41828
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600859870410,
+      "stop" : 1600859880944,
+      "duration" : 10534
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.FooterLinkTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.FooterLinkTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "footerLinkTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Regression"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.FooterLinkTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro"
+  }, {
+    "name" : "thread",
+    "value" : "50359@MacBook-Pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "469e6352d0ed90b8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,30 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 142.412 s <<< FAILURE! - in TestSuite
+odooGithubCommunityTest(org.example.OddoGithubCommunityTest)  Time elapsed: 21.015 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"a[class='UnderlineNav-item selected']"}
+  (Session info: chrome=87.0.4280.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'macbook-pro', ip: 'fe80:0:0:0:c8c:7d21:ad6f:6068%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6fb912b5e0629e0367ff9eaa680c9c3e
+*** Element info: {Using=css selector, value=a[class='UnderlineNav-item selected']}
+	at org.example.OddoGithubCommunityTest.odooGithubCommunityTest(OddoGithubCommunityTest.java:18)
+
+partnerDashboardTest(org.example.PartnerDashboardTest)  Time elapsed: 18.167 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+no such element: Unable to locate element: {"method":"css selector","selector":"a[class='dropdown-toggle']"}
+  (Session info: chrome=87.0.4280.88)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'macbook-pro', ip: 'fe80:0:0:0:c8c:7d21:ad6f:6068%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.7', java.version: '14.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 87.0.4280.88, chrome: {chromedriverVersion: 87.0.4280.88 (89e2380a3e36c..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53384}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 6fb912b5e0629e0367ff9eaa680c9c3e
+*** Element info: {Using=css selector, value=a[class='dropdown-toggle']}
+	at org.example.PartnerDashboardTest.partnerDashboardTest(PartnerDashboardTest.java:16)
+

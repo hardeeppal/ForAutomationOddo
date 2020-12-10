@@ -1,0 +1,1 @@
+{"uuid":"283ac239-3a6e-4809-9c13-ba69b1505423","name":"org.example.FooterLinkTest","children":["42968f49-9eba-4c0b-9652-9f70fa63c944"],"befores":[{"name":"doLogin","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1600531785166,"stop":1600531785166}],"afters":[],"links":[],"start":1600531785029,"stop":1600531785222}

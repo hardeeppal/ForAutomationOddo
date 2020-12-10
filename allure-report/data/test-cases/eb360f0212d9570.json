@@ -1,0 +1,76 @@
+{
+  "uid" : "eb360f0212d9570",
+  "name" : "loginTest",
+  "fullName" : "org.example.SignInPageTest.loginTest",
+  "historyId" : "8f9e9650b7c66c6ca6298de94ad5ace4",
+  "time" : {
+    "start" : 1600629702723,
+    "stop" : 1600629709611,
+    "duration" : 6888
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600629697624,
+      "stop" : 1600629702705,
+      "duration" : 5081
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.SignInPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.SignInPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "loginTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation copy"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.SignInPageTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "28329@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "eb360f0212d9570.json",
+  "parameterValues" : [ ]
+}

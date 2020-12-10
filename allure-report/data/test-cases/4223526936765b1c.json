@@ -1,0 +1,92 @@
+{
+  "uid" : "4223526936765b1c",
+  "name" : "footerLinkTest",
+  "fullName" : "org.example.SignUpPageTest.footerLinkTest",
+  "historyId" : "56501fcc67447d28236f17157bd1576c",
+  "time" : {
+    "start" : 1600517978551,
+    "stop" : 1600517999062,
+    "duration" : 20511
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "doLogin",
+    "time" : {
+      "start" : 1600517967770,
+      "stop" : 1600517978539,
+      "duration" : 10769
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600517965661,
+      "stop" : 1600517967760,
+      "duration" : 2099
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "footerLinkTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro"
+  }, {
+    "name" : "thread",
+    "value" : "22412@MacBook-Pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4223526936765b1c.json",
+  "parameterValues" : [ ]
+}

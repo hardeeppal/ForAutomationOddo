@@ -1,0 +1,6007 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "macbook-pro",
+    "children" : [ {
+      "name" : "37263@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "c716c0ddd68a9f39",
+        "parentUid" : "4d8b0ce0ec5afac54120251104007d5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600701810394,
+          "stop" : 1600701848357,
+          "duration" : 37963
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "4e4a6ec8eef02054",
+        "parentUid" : "4d8b0ce0ec5afac54120251104007d5d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600701848435,
+          "stop" : 1600701863529,
+          "duration" : 15094
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "f246638801ee9ce3",
+        "parentUid" : "4d8b0ce0ec5afac54120251104007d5d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600701863541,
+          "stop" : 1600701866735,
+          "duration" : 3194
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4d8b0ce0ec5afac54120251104007d5d"
+    }, {
+      "name" : "28164@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "ecd37a1fa1d42a06",
+        "parentUid" : "84d9180d9ffb3b58b59c8321efc7b6da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600629064238,
+          "stop" : 1600629072225,
+          "duration" : 7987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "restPassword",
+        "uid" : "ae25503c6e3fbcdc",
+        "parentUid" : "84d9180d9ffb3b58b59c8321efc7b6da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600629072311,
+          "stop" : 1600629072312,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "84d9180d9ffb3b58b59c8321efc7b6da"
+    }, {
+      "name" : "37375@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "a726d382dee039cf",
+        "parentUid" : "fb2c20484bf6d45bd23074ad1c3bc717",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600702001410,
+          "stop" : 1600702016469,
+          "duration" : 15059
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "6689ee6239342673",
+        "parentUid" : "fb2c20484bf6d45bd23074ad1c3bc717",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600701963440,
+          "stop" : 1600702001338,
+          "duration" : 37898
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "b9e84f7b7483850c",
+        "parentUid" : "fb2c20484bf6d45bd23074ad1c3bc717",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600702016483,
+          "stop" : 1600702018719,
+          "duration" : 2236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fb2c20484bf6d45bd23074ad1c3bc717"
+    }, {
+      "name" : "31659@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "doLogin",
+        "uid" : "8395fd977ba26587",
+        "parentUid" : "b5b6af58d9db94909f91a9ddfe96b639",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600659147253,
+          "stop" : 1600659147254,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "91d21303049ad8d2",
+        "parentUid" : "b5b6af58d9db94909f91a9ddfe96b639",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600659147263,
+          "stop" : 1600659147263,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "60b6fd164a4cb137",
+        "parentUid" : "b5b6af58d9db94909f91a9ddfe96b639",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600659098678,
+          "stop" : 1600659130069,
+          "duration" : 31391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "doLogin",
+        "uid" : "8ce9c9cc62b0a18f",
+        "parentUid" : "b5b6af58d9db94909f91a9ddfe96b639",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600659164311,
+          "stop" : 1600659164312,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "7b6f2523eb7fa0be",
+        "parentUid" : "b5b6af58d9db94909f91a9ddfe96b639",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600659164316,
+          "stop" : 1600659164317,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5b6af58d9db94909f91a9ddfe96b639"
+    }, {
+      "name" : "41005@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "cf5ee7c5c00ea4ac",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690517,
+          "stop" : 1600747690517,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "64d7d7bcd419327f",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690511,
+          "stop" : 1600747690511,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "ff118bdb82a976bd",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690515,
+          "stop" : 1600747690515,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "7b3dd1055fb62172",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690508,
+          "stop" : 1600747690508,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "4fca356cdb90cf03",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600747706672,
+          "stop" : 1600747765974,
+          "duration" : 59302
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "28b0e77140be90ef",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690525,
+          "stop" : 1600747690525,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "8ccb803790b67953",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690523,
+          "stop" : 1600747690523,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "c9a27838f86e5382",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690519,
+          "stop" : 1600747690519,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "5932c8f107200641",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690530,
+          "stop" : 1600747690530,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "d1be43e8b6b9ec26",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690427,
+          "stop" : 1600747690430,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "e513fc17155f5b0e",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690513,
+          "stop" : 1600747690513,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "1c5db498559e2506",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690527,
+          "stop" : 1600747690527,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "356988dbea8bd580",
+        "parentUid" : "5c79d50860d5a392850084aadeea342f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747690521,
+          "stop" : 1600747690521,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c79d50860d5a392850084aadeea342f"
+    }, {
+      "name" : "52192@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "e9ce7e5d6fb5818f",
+        "parentUid" : "ac8e6c477d124f971af2d0abb75ff284",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600909856413,
+          "stop" : 1600909856422,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ac8e6c477d124f971af2d0abb75ff284"
+    }, {
+      "name" : "25749@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "b4e7814c16e95032",
+        "parentUid" : "315ad54a25c1904817548f4277c6be74",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600551637460,
+          "stop" : 1600551645440,
+          "duration" : 7980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "315ad54a25c1904817548f4277c6be74"
+    }, {
+      "name" : "28217@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "c216ca4a99cc2d1c",
+        "parentUid" : "89a6afe45fedcb666739e0391025da9d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600629186753,
+          "stop" : 1600629186758,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "e65d65d235d1e77f",
+        "parentUid" : "89a6afe45fedcb666739e0391025da9d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600629179629,
+          "stop" : 1600629186675,
+          "duration" : 7046
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89a6afe45fedcb666739e0391025da9d"
+    }, {
+      "name" : "41220@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "20828f45285d6f81",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910452,
+          "stop" : 1600748910452,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "559653ba4c0ada01",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600748927385,
+          "stop" : 1600748954796,
+          "duration" : 27411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "3ba8a7e36837226a",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910459,
+          "stop" : 1600748910459,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "a792df29c4175ba8",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910460,
+          "stop" : 1600748910460,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "ffcbc2ec426cfac4",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910448,
+          "stop" : 1600748910448,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "2be773e555922b9a",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910450,
+          "stop" : 1600748910450,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "7a23ffb7c2807dfb",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910457,
+          "stop" : 1600748910457,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "86ffd7621d2b130c",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910453,
+          "stop" : 1600748910453,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "5ca1ce51eb0b3fd",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910446,
+          "stop" : 1600748910446,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "2053219bedbf04b",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910455,
+          "stop" : 1600748910455,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "91536824f20320c1",
+        "parentUid" : "dee9b9b6115f26faf3ae8fbf8af86c9b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910372,
+          "stop" : 1600748910374,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dee9b9b6115f26faf3ae8fbf8af86c9b"
+    }, {
+      "name" : "29720@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "54c6baf458550d82",
+        "parentUid" : "665dbdeae6eb8d21a39178c1d1881355",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654016804,
+          "stop" : 1600654031923,
+          "duration" : 15119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "665dbdeae6eb8d21a39178c1d1881355"
+    }, {
+      "name" : "29876@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "bcc7a3af9a2b1cf6",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267853,
+          "stop" : 1600654267853,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "f14cd8cbc505d996",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267857,
+          "stop" : 1600654267857,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "cf6004190f0447c",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267859,
+          "stop" : 1600654267859,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "27319489a6623b07",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267836,
+          "stop" : 1600654267836,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "9710834a552ceff0",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267843,
+          "stop" : 1600654267843,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "22b1c36540aac183",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654283575,
+          "stop" : 1600654298681,
+          "duration" : 15106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "e51a69964343a83",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267846,
+          "stop" : 1600654267846,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "195c687bdb2ffb73",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267763,
+          "stop" : 1600654267766,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "904992f13a5fdea6",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267862,
+          "stop" : 1600654267862,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "a90bc972167aabc5",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267855,
+          "stop" : 1600654267855,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "c61512cf7214048b",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267838,
+          "stop" : 1600654267838,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "bf87890f63859891",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267849,
+          "stop" : 1600654267849,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "7b13a45da7405a93",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267840,
+          "stop" : 1600654267840,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "6ea2ba07fe3da20f",
+        "parentUid" : "700e1a62fad93c3063c7203944ffb332",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654267832,
+          "stop" : 1600654267832,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "700e1a62fad93c3063c7203944ffb332"
+    }, {
+      "name" : "38063@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "d37e40755e1f1ec0",
+        "parentUid" : "26eac4e7e6eddd866b052ee0ecb74d36",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600703958555,
+          "stop" : 1600703977152,
+          "duration" : 18597
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "26eac4e7e6eddd866b052ee0ecb74d36"
+    }, {
+      "name" : "25352@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "d0a2abc9712506f6",
+        "parentUid" : "23443c9e66e437c868ab8ae85d2bd31b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600548442365,
+          "stop" : 1600548450484,
+          "duration" : 8119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "23443c9e66e437c868ab8ae85d2bd31b"
+    }, {
+      "name" : "29813@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "pricingMenuTest",
+        "uid" : "f7b8fb2225788c77",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189309,
+          "stop" : 1600654189309,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "a69849ae2758cd50",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189302,
+          "stop" : 1600654189302,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "74214a3c5262cd6b",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189307,
+          "stop" : 1600654189307,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "741028f7051e9078",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189212,
+          "stop" : 1600654189213,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "69944694197b8c36",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189280,
+          "stop" : 1600654189280,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "9f161b465ca150f7",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189312,
+          "stop" : 1600654189312,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "dd77e4125f3e2ca0",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189288,
+          "stop" : 1600654189288,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "5f0a186d873e5c84",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189295,
+          "stop" : 1600654189295,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "3ababa001cae961c",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189305,
+          "stop" : 1600654189305,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "b780bd29ea6fedf5",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654208971,
+          "stop" : 1600654224028,
+          "duration" : 15057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "9a303cfaabe82054",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189316,
+          "stop" : 1600654189316,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "7f3146ebd33023f5",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189299,
+          "stop" : 1600654189299,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "91e20716864de62b",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189292,
+          "stop" : 1600654189292,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "c9fa16eb2a5ad191",
+        "parentUid" : "b27209a35b3398357dbdb2bb626b630f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600654189284,
+          "stop" : 1600654189284,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b27209a35b3398357dbdb2bb626b630f"
+    }, {
+      "name" : "30584@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "oddoTourTest",
+        "uid" : "7aabc8ab8db9b86e",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410413,
+          "stop" : 1600656410413,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "doLogin",
+        "uid" : "8cd95cfc03c9a9ac",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656440128,
+          "stop" : 1600656440129,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "7dfd9db2d438314a",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410421,
+          "stop" : 1600656410421,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "e71e8e11745b7247",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410416,
+          "stop" : 1600656410416,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "3c7a0b2b02a0eaa8",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600656440140,
+          "stop" : 1600656440143,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "75310b7cc163095c",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410330,
+          "stop" : 1600656410332,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "b68cd7d658fa76be",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410405,
+          "stop" : 1600656410405,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "af5d70a597ee3e85",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410403,
+          "stop" : 1600656410403,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "3af743426cbe85de",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410397,
+          "stop" : 1600656410397,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "a9e5eb960d75209d",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410407,
+          "stop" : 1600656410407,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "2469b3cc0d20f233",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410411,
+          "stop" : 1600656410411,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "f3cc8a74d582a16b",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410409,
+          "stop" : 1600656410409,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "8fc4a72ca9e36870",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410418,
+          "stop" : 1600656410418,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "78d53fd96107e652",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410401,
+          "stop" : 1600656410401,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "5e1d66e168177434",
+        "parentUid" : "59ab74fa71e52f400d1e88689ab43645",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600656410399,
+          "stop" : 1600656410399,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "59ab74fa71e52f400d1e88689ab43645"
+    }, {
+      "name" : "30704@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "8cd313680c98eb32",
+        "parentUid" : "d4a660c631315a2404eb5ea41526e923",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656597694,
+          "stop" : 1600656612731,
+          "duration" : 15037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d4a660c631315a2404eb5ea41526e923"
+    }, {
+      "name" : "29774@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "fc4aa2dad5d75384",
+        "parentUid" : "7c09de2f01e12761848301e4f073967e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654119711,
+          "stop" : 1600654134777,
+          "duration" : 15066
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7c09de2f01e12761848301e4f073967e"
+    }, {
+      "name" : "31165@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "48d65655f9b96331",
+        "parentUid" : "08ad393c4d2dc9f8c919703a8a1ce77f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600658003764,
+          "stop" : 1600658033239,
+          "duration" : 29475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "d30780f5f846df80",
+        "parentUid" : "08ad393c4d2dc9f8c919703a8a1ce77f",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600657993223,
+          "stop" : 1600657993225,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "d8a59d215492d314",
+        "parentUid" : "08ad393c4d2dc9f8c919703a8a1ce77f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600658033252,
+          "stop" : 1600658051294,
+          "duration" : 18042
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "08ad393c4d2dc9f8c919703a8a1ce77f"
+    }, {
+      "name" : "23377@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "45089b6a4a1164e9",
+        "parentUid" : "7262295e2694b2ea29415ee9c39ce35d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600531359967,
+          "stop" : 1600531367545,
+          "duration" : 7578
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7262295e2694b2ea29415ee9c39ce35d"
+    }, {
+      "name" : "29289@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "bad631263615c411",
+        "parentUid" : "8292971a02a4999a1caf5b5bb1df5f22",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600652701441,
+          "stop" : 1600652722598,
+          "duration" : 21157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "cde0096a5180d805",
+        "parentUid" : "8292971a02a4999a1caf5b5bb1df5f22",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600652694226,
+          "stop" : 1600652701355,
+          "duration" : 7129
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8292971a02a4999a1caf5b5bb1df5f22"
+    }, {
+      "name" : "24692@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "b9e2ba03b4dd36fe",
+        "parentUid" : "13cb02609f9da13caa1a78cb891669d2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600546909341,
+          "stop" : 1600546909403,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13cb02609f9da13caa1a78cb891669d2"
+    }, {
+      "name" : "31504@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "8b4f5623b4819474",
+        "parentUid" : "9d2083b99bb4f780db33008790a1a63a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600658868235,
+          "stop" : 1600658899554,
+          "duration" : 31319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "d597c850f82031b2",
+        "parentUid" : "9d2083b99bb4f780db33008790a1a63a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600658930300,
+          "stop" : 1600658945358,
+          "duration" : 15058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "f4b7667835e209be",
+        "parentUid" : "9d2083b99bb4f780db33008790a1a63a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600658899624,
+          "stop" : 1600658930281,
+          "duration" : 30657
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d2083b99bb4f780db33008790a1a63a"
+    }, {
+      "name" : "28130@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "c28937a79d0d1127",
+        "parentUid" : "b93aa97e0847b839f0dba091c12f70fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600629015974,
+          "stop" : 1600629022524,
+          "duration" : 6550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b93aa97e0847b839f0dba091c12f70fb"
+    }, {
+      "name" : "40185@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "e84a406b5aa7c2a4",
+        "parentUid" : "cf76b63bf655248279be49c54e432d4b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600717384687,
+          "stop" : 1600717423473,
+          "duration" : 38786
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf76b63bf655248279be49c54e432d4b"
+    }, {
+      "name" : "30203@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "c6b5bf6e2df36ec3",
+        "parentUid" : "ba4226920aecd9d39b26ee7cf73a3585",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600655244701,
+          "stop" : 1600655244703,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "94876178fd85bb61",
+        "parentUid" : "ba4226920aecd9d39b26ee7cf73a3585",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600655244804,
+          "stop" : 1600655244808,
+          "duration" : 4
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ba4226920aecd9d39b26ee7cf73a3585"
+    }, {
+      "name" : "38895@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "4720ff049a0dce7b",
+        "parentUid" : "34367069df2817b2c1c04fe4fa1031b2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600707102018,
+          "stop" : 1600707133817,
+          "duration" : 31799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "34367069df2817b2c1c04fe4fa1031b2"
+    }, {
+      "name" : "30669@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "75f796c29d0ab6e",
+        "parentUid" : "795e970ab4830fce9caed28ed12b236b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656539948,
+          "stop" : 1600656554978,
+          "duration" : 15030
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "795e970ab4830fce9caed28ed12b236b"
+    }, {
+      "name" : "40948@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "signInPageTest",
+        "uid" : "7bbee3ead9f21be2",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479746,
+          "stop" : 1600747479746,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "979e41de36380fbf",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479660,
+          "stop" : 1600747479662,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "2343b9693f8e1f3b",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479762,
+          "stop" : 1600747479762,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "7554107e7d50834c",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600747516897,
+          "stop" : 1600747547029,
+          "duration" : 30132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "4bcbf3f02a5c1cd0",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479760,
+          "stop" : 1600747479760,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "76d7a6b0ced80ba2",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479758,
+          "stop" : 1600747479758,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "614322bbf3b1ecf7",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479755,
+          "stop" : 1600747479755,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "118db332fe62ee4b",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479753,
+          "stop" : 1600747479753,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "bd059d7f82b5556f",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479738,
+          "stop" : 1600747479738,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "2a558ea8069e29c3",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479743,
+          "stop" : 1600747479743,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "9ffbb3eaf4ae81fe",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479751,
+          "stop" : 1600747479751,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "c011fb8430968ecb",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479748,
+          "stop" : 1600747479748,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "bf2d4873514b3c04",
+        "parentUid" : "caa3705ab1a616f8f9f8ca05998b2644",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600747479741,
+          "stop" : 1600747479741,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "caa3705ab1a616f8f9f8ca05998b2644"
+    }, {
+      "name" : "25530@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "25fe720626ab3abb",
+        "parentUid" : "3e688474a0f21c611f6234b9442f77f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600548639379,
+          "stop" : 1600548648414,
+          "duration" : 9035
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e688474a0f21c611f6234b9442f77f1"
+    }, {
+      "name" : "29499@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "b6e99535ee0d8e07",
+        "parentUid" : "6562c5ec6113df86c4df5a4536d4e817",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600653335051,
+          "stop" : 1600653353095,
+          "duration" : 18044
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6562c5ec6113df86c4df5a4536d4e817"
+    }, {
+      "name" : "38930@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "55494e2ce539e44",
+        "parentUid" : "8389c393623a5909566f72cbcd65d8d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600707170804,
+          "stop" : 1600707206110,
+          "duration" : 35306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8389c393623a5909566f72cbcd65d8d1"
+    }, {
+      "name" : "41069@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "pricingMenuTest",
+        "uid" : "71fd8119a0ecbc4f",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600748021311,
+          "stop" : 1600748065464,
+          "duration" : 44153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "391f985ec1aa316d",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002459,
+          "stop" : 1600748002459,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "31e6f8ed8cbc93db",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002448,
+          "stop" : 1600748002448,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "6ac1351791f120ba",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002456,
+          "stop" : 1600748002457,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "947410bf0eeec4a7",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002443,
+          "stop" : 1600748002443,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "991c083d9b6ec4cc",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002454,
+          "stop" : 1600748002454,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "af61223bb856b21e",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002451,
+          "stop" : 1600748002451,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "bdb57c53c1cf99b0",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002342,
+          "stop" : 1600748002345,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "fcaf0c7379d4ed31",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002446,
+          "stop" : 1600748002446,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "c94698eb3e1933d",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002462,
+          "stop" : 1600748002462,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "2326ef5ce02c0d44",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002449,
+          "stop" : 1600748002449,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "91066007a8989b52",
+        "parentUid" : "48fd44126ba12ea683061817bd6f4a1c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748002466,
+          "stop" : 1600748002466,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "48fd44126ba12ea683061817bd6f4a1c"
+    }, {
+      "name" : "54340@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "4229da1d67bfb8b4",
+        "parentUid" : "be31f854f7ea4a37f526fa1cfd213237",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600919211578,
+          "stop" : 1600919226875,
+          "duration" : 15297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "ad18db801b73f655",
+        "parentUid" : "be31f854f7ea4a37f526fa1cfd213237",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600919198776,
+          "stop" : 1600919210383,
+          "duration" : 11607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "3ce298028669168a",
+        "parentUid" : "be31f854f7ea4a37f526fa1cfd213237",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600919210459,
+          "stop" : 1600919211571,
+          "duration" : 1112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "be31f854f7ea4a37f526fa1cfd213237"
+    }, {
+      "name" : "31586@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "18a670acfee4ce18",
+        "parentUid" : "e1fe6cbd0abf7ed10a25f6f7ef6e50cc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600658993987,
+          "stop" : 1600658993989,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "965defb290c9eeca",
+        "parentUid" : "e1fe6cbd0abf7ed10a25f6f7ef6e50cc",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600658994054,
+          "stop" : 1600658994057,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e1fe6cbd0abf7ed10a25f6f7ef6e50cc"
+    }, {
+      "name" : "23312@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "4a1982c9c4a57eb4",
+        "parentUid" : "11b8291d9328808ee1a4ad68427f45a9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600531094442,
+          "stop" : 1600531111200,
+          "duration" : 16758
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "11b8291d9328808ee1a4ad68427f45a9"
+    }, {
+      "name" : "29410@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "68921b3a484e03a0",
+        "parentUid" : "9bc8a21d0ee8533bad5da7fca31e4590",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600653139632,
+          "stop" : 1600653157686,
+          "duration" : 18054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9bc8a21d0ee8533bad5da7fca31e4590"
+    }, {
+      "name" : "23605@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "cc50648fc7f34603",
+        "parentUid" : "631e863e45473b4ad81a371bfc3873fe",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600531785175,
+          "stop" : 1600531785177,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "eb218e6e4161a0a",
+        "parentUid" : "631e863e45473b4ad81a371bfc3873fe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600531785103,
+          "stop" : 1600531785104,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "631e863e45473b4ad81a371bfc3873fe"
+    }, {
+      "name" : "39762@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "426611508c012310",
+        "parentUid" : "c053e63c19934df54b7fa8016674c4a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600713817659,
+          "stop" : 1600713841360,
+          "duration" : 23701
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c053e63c19934df54b7fa8016674c4a4"
+    }, {
+      "name" : "29030@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "dc89f60e3035fea2",
+        "parentUid" : "3e9524ebf179d0a5ce3609ae9f476263",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600652028606,
+          "stop" : 1600652035954,
+          "duration" : 7348
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "restPassword",
+        "uid" : "a6fe82670279d96a",
+        "parentUid" : "3e9524ebf179d0a5ce3609ae9f476263",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600652036511,
+          "stop" : 1600652057670,
+          "duration" : 21159
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e9524ebf179d0a5ce3609ae9f476263"
+    }, {
+      "name" : "27725@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "7c02b3ef975746b2",
+        "parentUid" : "b01f396901d0cb4f35b70e59f570e791",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600626315602,
+          "stop" : 1600626327385,
+          "duration" : 11783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b01f396901d0cb4f35b70e59f570e791"
+    }, {
+      "name" : "28477@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "97ab9aa88f944414",
+        "parentUid" : "35d587e14131232b7f7e607b56319ec9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600630159740,
+          "stop" : 1600630174970,
+          "duration" : 15230
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "2b91b6deea9f0673",
+        "parentUid" : "35d587e14131232b7f7e607b56319ec9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630153012,
+          "stop" : 1600630159669,
+          "duration" : 6657
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "35d587e14131232b7f7e607b56319ec9"
+    }, {
+      "name" : "28329@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "e2e7a5cbe893d520",
+        "parentUid" : "29f1de0e49fafe3ee4fc941fd12c6d44",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600629697501,
+          "stop" : 1600629697506,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "eb360f0212d9570",
+        "parentUid" : "29f1de0e49fafe3ee4fc941fd12c6d44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600629702723,
+          "stop" : 1600629709611,
+          "duration" : 6888
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "29f1de0e49fafe3ee4fc941fd12c6d44"
+    }, {
+      "name" : "28444@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "104309600d4e1bfa",
+        "parentUid" : "ca62cc38f1f2eaa74a75b08f1a68a14b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630121285,
+          "stop" : 1600630126186,
+          "duration" : 4901
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "16500a0c1bdf7592",
+        "parentUid" : "ca62cc38f1f2eaa74a75b08f1a68a14b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600630114566,
+          "stop" : 1600630121186,
+          "duration" : 6620
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca62cc38f1f2eaa74a75b08f1a68a14b"
+    }, {
+      "name" : "24809@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "5972088f9473d96f",
+        "parentUid" : "bb608f21275cf09e9583c2fbf193044a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600547018251,
+          "stop" : 1600547021308,
+          "duration" : 3057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb608f21275cf09e9583c2fbf193044a"
+    }, {
+      "name" : "25085@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "a8faec651ea82058",
+        "parentUid" : "73f87ad586cf1b5ce36086d321095456",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600547422223,
+          "stop" : 1600547422226,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "4541bbdaada03585",
+        "parentUid" : "73f87ad586cf1b5ce36086d321095456",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600547422144,
+          "stop" : 1600547422145,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73f87ad586cf1b5ce36086d321095456"
+    }, {
+      "name" : "37163@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "6831abb73d4fb1d4",
+        "parentUid" : "75b9853b61a8a59826bafbcd5dfdf133",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600701682119,
+          "stop" : 1600701691318,
+          "duration" : 9199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "3d214406744fca8b",
+        "parentUid" : "75b9853b61a8a59826bafbcd5dfdf133",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600701691393,
+          "stop" : 1600701730072,
+          "duration" : 38679
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "d7c88e6fcaa7357e",
+        "parentUid" : "75b9853b61a8a59826bafbcd5dfdf133",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600701730084,
+          "stop" : 1600701745120,
+          "duration" : 15036
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "75b9853b61a8a59826bafbcd5dfdf133"
+    }, {
+      "name" : "23535@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "34a2d6332ccb0b1c",
+        "parentUid" : "e4e4b2aea30133c05556dd672a97385e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600531644874,
+          "stop" : 1600531644874,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "20af700e4eaefb88",
+        "parentUid" : "e4e4b2aea30133c05556dd672a97385e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600531644800,
+          "stop" : 1600531644802,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4e4b2aea30133c05556dd672a97385e"
+    }, {
+      "name" : "25454@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "a5a81a01a9dda4b",
+        "parentUid" : "45de19b412e2b0ae28949afc217dfc5c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600548515730,
+          "stop" : 1600548525240,
+          "duration" : 9510
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "45de19b412e2b0ae28949afc217dfc5c"
+    }, {
+      "name" : "25561@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "2a6b2aa018458360",
+        "parentUid" : "64b08ba73acae0337a1dd5eb6c9de4b4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600548678571,
+          "stop" : 1600548686713,
+          "duration" : 8142
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "64b08ba73acae0337a1dd5eb6c9de4b4"
+    }, {
+      "name" : "38779@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "556e25cf00de05ec",
+        "parentUid" : "39f40e93f06b2d205c0113c0a50e6906",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600706782226,
+          "stop" : 1600706793801,
+          "duration" : 11575
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "79321aea3015afaa",
+        "parentUid" : "39f40e93f06b2d205c0113c0a50e6906",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600706774399,
+          "stop" : 1600706782122,
+          "duration" : 7723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "39f40e93f06b2d205c0113c0a50e6906"
+    }, {
+      "name" : "38282@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "5f25af3c18c86879",
+        "parentUid" : "666741a9dc5cd14b4a0278cc211cf18a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600704749253,
+          "stop" : 1600704761503,
+          "duration" : 12250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "666741a9dc5cd14b4a0278cc211cf18a"
+    }, {
+      "name" : "38337@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "b44347a0f7d7449b",
+        "parentUid" : "af6a3ab0632c67c4eef94b1748c836e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600704786911,
+          "stop" : 1600704826420,
+          "duration" : 39509
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "a807290689390ba0",
+        "parentUid" : "af6a3ab0632c67c4eef94b1748c836e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600704826490,
+          "stop" : 1600704856391,
+          "duration" : 29901
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "f975f3ec70d6b77d",
+        "parentUid" : "af6a3ab0632c67c4eef94b1748c836e2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600704856400,
+          "stop" : 1600704871426,
+          "duration" : 15026
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "af6a3ab0632c67c4eef94b1748c836e2"
+    }, {
+      "name" : "39802@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "ee2f97ffee35274f",
+        "parentUid" : "ddeb1c81d4afe7c0eb292477ec152a82",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600713860558,
+          "stop" : 1600713883670,
+          "duration" : 23112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ddeb1c81d4afe7c0eb292477ec152a82"
+    }, {
+      "name" : "28266@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "593ae9fb3dcdae72",
+        "parentUid" : "95ef254abfb90e69701670e457a0aec9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600629360234,
+          "stop" : 1600629365549,
+          "duration" : 5315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "892bc78c7663ee3e",
+        "parentUid" : "95ef254abfb90e69701670e457a0aec9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600629353362,
+          "stop" : 1600629360156,
+          "duration" : 6794
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "95ef254abfb90e69701670e457a0aec9"
+    }, {
+      "name" : "29607@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "4805ca7b6b7597f",
+        "parentUid" : "59f85d86d04471695bc879da11140087",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600653475885,
+          "stop" : 1600653493957,
+          "duration" : 18072
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "59f85d86d04471695bc879da11140087"
+    }, {
+      "name" : "30475@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "6b281716699574ba",
+        "parentUid" : "9feb5c40d89295b4c38bcae5f07f3f00",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656218846,
+          "stop" : 1600656233904,
+          "duration" : 15058
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9feb5c40d89295b4c38bcae5f07f3f00"
+    }, {
+      "name" : "25270@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "b6ba78316f24a4ae",
+        "parentUid" : "713493a51169e7690c6af7933225ab3b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600548389569,
+          "stop" : 1600548395716,
+          "duration" : 6147
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "713493a51169e7690c6af7933225ab3b"
+    }, {
+      "name" : "39619@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "7ec73c1f27dbb16",
+        "parentUid" : "486e676fb47076ac09092f5ba97f8fd5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600713417825,
+          "stop" : 1600713455440,
+          "duration" : 37615
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "486e676fb47076ac09092f5ba97f8fd5"
+    }, {
+      "name" : "24946@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "72aec9b9300a7b06",
+        "parentUid" : "76714b7eddd2380fa52054cca5054439",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600547129110,
+          "stop" : 1600547134172,
+          "duration" : 5062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "76714b7eddd2380fa52054cca5054439"
+    }, {
+      "name" : "38863@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "7f1dfc5f03a05924",
+        "parentUid" : "919bd566172cb49f816884c51272af57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600707038553,
+          "stop" : 1600707069200,
+          "duration" : 30647
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "919bd566172cb49f816884c51272af57"
+    }, {
+      "name" : "25133@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "3b6e968393e96cb4",
+        "parentUid" : "27c3924bc32250ec501b55b9320a3910",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600547498717,
+          "stop" : 1600547504849,
+          "duration" : 6132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27c3924bc32250ec501b55b9320a3910"
+    }, {
+      "name" : "24594@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "3f38b61a6f4b6e00",
+        "parentUid" : "ab59df6af215e853ad73d4f58fd6cc43",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600546781902,
+          "stop" : 1600546781904,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "e83f55f40de1e5a7",
+        "parentUid" : "ab59df6af215e853ad73d4f58fd6cc43",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600546781831,
+          "stop" : 1600546781833,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ab59df6af215e853ad73d4f58fd6cc43"
+    }, {
+      "name" : "28775@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "9f4c4d438b3caf7",
+        "parentUid" : "aea804dcf213777703c9b1ca60f2d681",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600630944314,
+          "stop" : 1600630965436,
+          "duration" : 21122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "791c33a71a8097bb",
+        "parentUid" : "aea804dcf213777703c9b1ca60f2d681",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630936743,
+          "stop" : 1600630944238,
+          "duration" : 7495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aea804dcf213777703c9b1ca60f2d681"
+    }, {
+      "name" : "28052@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "91904db6fa7f51ef",
+        "parentUid" : "bc2614015024d3b256924b86b39186f7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600628582591,
+          "stop" : 1600628590040,
+          "duration" : 7449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bc2614015024d3b256924b86b39186f7"
+    }, {
+      "name" : "28610@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "cd8573902b769161",
+        "parentUid" : "2e51c5a6ca3403ccc9b3fcd2e2b1f533",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630697451,
+          "stop" : 1600630713909,
+          "duration" : 16458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "c27f802e0560c62f",
+        "parentUid" : "2e51c5a6ca3403ccc9b3fcd2e2b1f533",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630690085,
+          "stop" : 1600630697376,
+          "duration" : 7291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2e51c5a6ca3403ccc9b3fcd2e2b1f533"
+    }, {
+      "name" : "30808@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "3360eadd7d434da0",
+        "parentUid" : "d1e4a7ac8e4aa15f2855d175be06ca4d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656775178,
+          "stop" : 1600656791668,
+          "duration" : 16490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d1e4a7ac8e4aa15f2855d175be06ca4d"
+    }, {
+      "name" : "41315@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "tryForFreeOptionTest",
+        "uid" : "e52f5efae3a5e08",
+        "parentUid" : "07665fffbf140abea04d3007a7d8b902",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600750027341,
+          "stop" : 1600750046497,
+          "duration" : 19156
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07665fffbf140abea04d3007a7d8b902"
+    }, {
+      "name" : "30142@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "checkMyDatabase",
+        "uid" : "4ca9b152f5464e2d",
+        "parentUid" : "112217f2a42155a0670ed773fa5ff66f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600655057605,
+          "stop" : 1600655072689,
+          "duration" : 15084
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "112217f2a42155a0670ed773fa5ff66f"
+    }, {
+      "name" : "23837@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "5ceb4507c1b501db",
+        "parentUid" : "f38fc93522136090fdb2c120f3c7de20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600532082483,
+          "stop" : 1600532113397,
+          "duration" : 30914
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f38fc93522136090fdb2c120f3c7de20"
+    }, {
+      "name" : "51442@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openAppsDropdown",
+        "uid" : "8ef34060cfe09397",
+        "parentUid" : "e0416b85ed1c53b614848cd5bfa21e9f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600879467125,
+          "stop" : 1600879467179,
+          "duration" : 54
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e0416b85ed1c53b614848cd5bfa21e9f"
+    }, {
+      "name" : "24444@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "fffd2a4c1d6e9565",
+        "parentUid" : "097beedb4ad9f0386e39d0773766dba8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600546624671,
+          "stop" : 1600546655570,
+          "duration" : 30899
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "097beedb4ad9f0386e39d0773766dba8"
+    }, {
+      "name" : "39573@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "a9cd2abab18eb93c",
+        "parentUid" : "441fb8aa9b405d9e49b7ce97504d5dc1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600713338012,
+          "stop" : 1600713374751,
+          "duration" : 36739
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "441fb8aa9b405d9e49b7ce97504d5dc1"
+    }, {
+      "name" : "29465@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "3e47fcb3931dbad5",
+        "parentUid" : "b662055fff556ae74166f39608b43bc7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600653284325,
+          "stop" : 1600653302421,
+          "duration" : 18096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b662055fff556ae74166f39608b43bc7"
+    }, {
+      "name" : "30390@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "checkMyDatabase",
+        "uid" : "26071e99a2b1abe5",
+        "parentUid" : "1c15ef266c31501d6362cd4fe21eb12f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600656080733,
+          "stop" : 1600656084612,
+          "duration" : 3879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c15ef266c31501d6362cd4fe21eb12f"
+    }, {
+      "name" : "52376@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "3ce75a1b4517041",
+        "parentUid" : "447e5c7902c94e514e1b8e9b27845d7a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600910439075,
+          "stop" : 1600910439082,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "447e5c7902c94e514e1b8e9b27845d7a"
+    }, {
+      "name" : "37035@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "8a16b365e3048818",
+        "parentUid" : "19617cb4dbb823db0ff92279edfff5d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600701423086,
+          "stop" : 1600701438216,
+          "duration" : 15130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "19617cb4dbb823db0ff92279edfff5d8"
+    }, {
+      "name" : "28643@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "9cd8f64354d30715",
+        "parentUid" : "f9765f96838f80a3d39a8a74bd198131",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600630735497,
+          "stop" : 1600630756638,
+          "duration" : 21141
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "28c224c64483aeb7",
+        "parentUid" : "f9765f96838f80a3d39a8a74bd198131",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630728356,
+          "stop" : 1600630735426,
+          "duration" : 7070
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f9765f96838f80a3d39a8a74bd198131"
+    }, {
+      "name" : "37655@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "f8e21746ce73c9d3",
+        "parentUid" : "3204c05e2d501c261d561b0d0482a2e0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600702960341,
+          "stop" : 1600703012840,
+          "duration" : 52499
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3204c05e2d501c261d561b0d0482a2e0"
+    }, {
+      "name" : "39263@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "3b8ebcf7ce995247",
+        "parentUid" : "330d686e93afd6dd92722b4dd1e4666a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600710068405,
+          "stop" : 1600710088728,
+          "duration" : 20323
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "330d686e93afd6dd92722b4dd1e4666a"
+    }, {
+      "name" : "30247@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "checkMyDatabase",
+        "uid" : "1e577eb85eb97442",
+        "parentUid" : "f5ec04ded4fe514c52f43289003eac33",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600655356831,
+          "stop" : 1600655356833,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "cc71c73ca145055b",
+        "parentUid" : "f5ec04ded4fe514c52f43289003eac33",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600655356723,
+          "stop" : 1600655356724,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f5ec04ded4fe514c52f43289003eac33"
+    }, {
+      "name" : "38167@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "3b586c44726b1660",
+        "parentUid" : "feba5f4f0199f3a65a9e721e61c01cea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600704108392,
+          "stop" : 1600704137882,
+          "duration" : 29490
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "aa72894d660000f7",
+        "parentUid" : "feba5f4f0199f3a65a9e721e61c01cea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600704071760,
+          "stop" : 1600704108316,
+          "duration" : 36556
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "5cf0a5e762cdd211",
+        "parentUid" : "feba5f4f0199f3a65a9e721e61c01cea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600704137890,
+          "stop" : 1600704152950,
+          "duration" : 15060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "feba5f4f0199f3a65a9e721e61c01cea"
+    }, {
+      "name" : "29120@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "e54f48b25461b5c",
+        "parentUid" : "d8506dbdc6f777042cc72bd834cf86ff",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600652339174,
+          "stop" : 1600652347107,
+          "duration" : 7933
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d8506dbdc6f777042cc72bd834cf86ff"
+    }, {
+      "name" : "23658@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "3a34c6d3ebe309ba",
+        "parentUid" : "f913c71f50dabb79fa128ef827a70bb0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600531839825,
+          "stop" : 1600531848254,
+          "duration" : 8429
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f913c71f50dabb79fa128ef827a70bb0"
+    }, {
+      "name" : "52345@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "720270766ac16e0d",
+        "parentUid" : "043e1cd4e833004f16af58fadf48c9f7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600910399611,
+          "stop" : 1600910399619,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "043e1cd4e833004f16af58fadf48c9f7"
+    }, {
+      "name" : "30042@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "78cae63d5e33e3a3",
+        "parentUid" : "1beea7b3bf06ba6d0b5b4a0232d17e82",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654871271,
+          "stop" : 1600654878435,
+          "duration" : 7164
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1beea7b3bf06ba6d0b5b4a0232d17e82"
+    }, {
+      "name" : "30298@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "cb0862e9253f1921",
+        "parentUid" : "e28c5e35b54c9f4ea38826531b3f263b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600655479705,
+          "stop" : 1600655514540,
+          "duration" : 34835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e28c5e35b54c9f4ea38826531b3f263b"
+    }, {
+      "name" : "31017@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "140af362f7036015",
+        "parentUid" : "5ad1883b5a2cd14f269a4d3160618228",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600657423828,
+          "stop" : 1600657438917,
+          "duration" : 15089
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ad1883b5a2cd14f269a4d3160618228"
+    }, {
+      "name" : "31269@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "7b5bd914772b89b6",
+        "parentUid" : "8375d095a3dfb9bcfb36b07ff261b3eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600658272289,
+          "stop" : 1600658302646,
+          "duration" : 30357
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "9d2dd922c855e855",
+        "parentUid" : "8375d095a3dfb9bcfb36b07ff261b3eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600658240185,
+          "stop" : 1600658272205,
+          "duration" : 32020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8375d095a3dfb9bcfb36b07ff261b3eb"
+    }, {
+      "name" : "27111@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "f38313f1389522f9",
+        "parentUid" : "73f8d868850d8d5570d3f4ba439ef41d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600619789295,
+          "stop" : 1600619796730,
+          "duration" : 7435
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "73f8d868850d8d5570d3f4ba439ef41d"
+    }, {
+      "name" : "31426@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "1938b90dadcf6690",
+        "parentUid" : "e3ad9a026f032a5e26b3b958cdd63156",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600658752554,
+          "stop" : 1600658772470,
+          "duration" : 19916
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3ad9a026f032a5e26b3b958cdd63156"
+    }, {
+      "name" : "27451@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "c3a9a2d849ffbecb",
+        "parentUid" : "1bb03a198ecd69e1d0fdcbb3e6454021",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600621133294,
+          "stop" : 1600621142845,
+          "duration" : 9551
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1bb03a198ecd69e1d0fdcbb3e6454021"
+    }, {
+      "name" : "28554@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "2ab4e9ef150a3479",
+        "parentUid" : "ea551e060a42e04545db5c83c437fd44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600630514545,
+          "stop" : 1600630533675,
+          "duration" : 19130
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "4f5829a8674492a4",
+        "parentUid" : "ea551e060a42e04545db5c83c437fd44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630507947,
+          "stop" : 1600630514468,
+          "duration" : 6521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea551e060a42e04545db5c83c437fd44"
+    }, {
+      "name" : "37981@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "675b342530da437d",
+        "parentUid" : "b69c59344a37c33262ed0ef346e08ffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600703821013,
+          "stop" : 1600703858244,
+          "duration" : 37231
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "c7b5ee200be0b8cc",
+        "parentUid" : "b69c59344a37c33262ed0ef346e08ffb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600703888300,
+          "stop" : 1600703903351,
+          "duration" : 15051
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "57521f0183fc270f",
+        "parentUid" : "b69c59344a37c33262ed0ef346e08ffb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600703858316,
+          "stop" : 1600703888291,
+          "duration" : 29975
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b69c59344a37c33262ed0ef346e08ffb"
+    }, {
+      "name" : "52420@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "326d6c9862d78726",
+        "parentUid" : "5a919b5468610c91959d0fcd75eb31d9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600910514648,
+          "stop" : 1600910514658,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5a919b5468610c91959d0fcd75eb31d9"
+    }, {
+      "name" : "30633@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "3c1bc7100f81cbd4",
+        "parentUid" : "09dcc3d8a5bd04ff1808988e26596aa1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656501857,
+          "stop" : 1600656501864,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "09dcc3d8a5bd04ff1808988e26596aa1"
+    }, {
+      "name" : "52006@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "32690a5f70df36e0",
+        "parentUid" : "fb721646befe121074189e9f63d08007",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600908992533,
+          "stop" : 1600908992539,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fb721646befe121074189e9f63d08007"
+    }, {
+      "name" : "39169@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "8a3e51372a00902b",
+        "parentUid" : "53f654ffad2e37b6107818daffb54121",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600709511707,
+          "stop" : 1600709547186,
+          "duration" : 35479
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "53f654ffad2e37b6107818daffb54121"
+    }, {
+      "name" : "28735@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "c1cea23fdbb7c638",
+        "parentUid" : "2cf25054187dc3d2a15ee10e72fe28d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630890668,
+          "stop" : 1600630908789,
+          "duration" : 18121
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "44889dca963863a5",
+        "parentUid" : "2cf25054187dc3d2a15ee10e72fe28d4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630883740,
+          "stop" : 1600630890595,
+          "duration" : 6855
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2cf25054187dc3d2a15ee10e72fe28d4"
+    }, {
+      "name" : "38702@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "signUpPageTest",
+        "uid" : "5769b2ddd042e398",
+        "parentUid" : "4bf92e2758226afb6cee662917ee29f3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600706595239,
+          "stop" : 1600706604930,
+          "duration" : 9691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4bf92e2758226afb6cee662917ee29f3"
+    }, {
+      "name" : "38557@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "signUpPageTest",
+        "uid" : "3fcc73ee11ac2830",
+        "parentUid" : "6886dac257950c3a70bb0d28e71d5801",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600706136165,
+          "stop" : 1600706140150,
+          "duration" : 3985
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6886dac257950c3a70bb0d28e71d5801"
+    }, {
+      "name" : "28705@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "ee7225b97a401437",
+        "parentUid" : "35489abe737503d6842c56f153f3f043",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630824344,
+          "stop" : 1600630845887,
+          "duration" : 21543
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "8a5c1dcca36f5608",
+        "parentUid" : "35489abe737503d6842c56f153f3f043",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600630817426,
+          "stop" : 1600630824271,
+          "duration" : 6845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "35489abe737503d6842c56f153f3f043"
+    }, {
+      "name" : "29156@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "8e12929f7244e15d",
+        "parentUid" : "c56d39e1e96ebaf9259c94fe3f6e186e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600652380048,
+          "stop" : 1600652401201,
+          "duration" : 21153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "29a125edae4a7d",
+        "parentUid" : "c56d39e1e96ebaf9259c94fe3f6e186e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600652373169,
+          "stop" : 1600652379974,
+          "duration" : 6805
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c56d39e1e96ebaf9259c94fe3f6e186e"
+    }, {
+      "name" : "52149@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "8fdf70dacbbed64",
+        "parentUid" : "6c54aa7c69e1b53a36e932dd1fd370cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600909782542,
+          "stop" : 1600909782553,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6c54aa7c69e1b53a36e932dd1fd370cb"
+    }, {
+      "name" : "29221@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "396bb75839db160a",
+        "parentUid" : "27248088bf443161ab9856e61244f14d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600652600224,
+          "stop" : 1600652627695,
+          "duration" : 27471
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "72e78cf1891e1c11",
+        "parentUid" : "27248088bf443161ab9856e61244f14d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600652592702,
+          "stop" : 1600652600150,
+          "duration" : 7448
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27248088bf443161ab9856e61244f14d"
+    }, {
+      "name" : "38654@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "signUpPageTest",
+        "uid" : "b3734511f1003f59",
+        "parentUid" : "d3c1ba22e1c242dd32779de50e8c2e0f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600706510363,
+          "stop" : 1600706521128,
+          "duration" : 10765
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d3c1ba22e1c242dd32779de50e8c2e0f"
+    }, {
+      "name" : "37904@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "d7d77f50fd7aaa92",
+        "parentUid" : "bd1707d80ff2781aa37da68e5f28ffa4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600703679268,
+          "stop" : 1600703718010,
+          "duration" : 38742
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bd1707d80ff2781aa37da68e5f28ffa4"
+    }, {
+      "name" : "30435@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "c725b78c28de0489",
+        "parentUid" : "5ec4c896e918006b0103a58cf05da23a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656157714,
+          "stop" : 1600656172791,
+          "duration" : 15077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5ec4c896e918006b0103a58cf05da23a"
+    }, {
+      "name" : "37069@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "3b847a89f7d8cb33",
+        "parentUid" : "204d664e955efb3b3a3580926850caa6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600701465156,
+          "stop" : 1600701487847,
+          "duration" : 22691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "204d664e955efb3b3a3580926850caa6"
+    }, {
+      "name" : "26851@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "9b54addaebf9b070",
+        "parentUid" : "f6b2a2d2fda9a7738a17e71ceca40207",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600617175102,
+          "stop" : 1600617183309,
+          "duration" : 8207
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6b2a2d2fda9a7738a17e71ceca40207"
+    }, {
+      "name" : "23748@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "writeForCommunityTest",
+        "uid" : "5508a9416a72b7c2",
+        "parentUid" : "8792a08bcfa4ee94eea3a2568896a835",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600531946487,
+          "stop" : 1600531946488,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8792a08bcfa4ee94eea3a2568896a835"
+    }, {
+      "name" : "28376@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "8a00fc583d286af3",
+        "parentUid" : "765d22cd3943341b4711f029b4db8afc",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600629800431,
+          "stop" : 1600629800432,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "ef85a6375ac5b8d",
+        "parentUid" : "765d22cd3943341b4711f029b4db8afc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600629805098,
+          "stop" : 1600629812163,
+          "duration" : 7065
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "765d22cd3943341b4711f029b4db8afc"
+    }, {
+      "name" : "29255@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "loginTest",
+        "uid" : "db3ffc8262fc51e3",
+        "parentUid" : "a043f3315725793e763bd14b3edacdea",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600652640546,
+          "stop" : 1600652648029,
+          "duration" : 7483
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a043f3315725793e763bd14b3edacdea"
+    }, {
+      "name" : "38963@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "7bc02159fef09c64",
+        "parentUid" : "fcdd1e89da2d69981b6c503957eb897b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600707267792,
+          "stop" : 1600707303136,
+          "duration" : 35344
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fcdd1e89da2d69981b6c503957eb897b"
+    }, {
+      "name" : "37717@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "76ebba5639ee248d",
+        "parentUid" : "13177b8993efa1029d8b3ad142c1295c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600703087829,
+          "stop" : 1600703143623,
+          "duration" : 55794
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13177b8993efa1029d8b3ad142c1295c"
+    }, {
+      "name" : "40228@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "52515eeacbc2d007",
+        "parentUid" : "166a8f6a0fd1d49fab1d789d35a935d0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600717444468,
+          "stop" : 1600717483267,
+          "duration" : 38799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "166a8f6a0fd1d49fab1d789d35a935d0"
+    }, {
+      "name" : "38605@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "signUpPageTest",
+        "uid" : "ba232362a3948cf0",
+        "parentUid" : "a05d9caead6c5f40c7d08a927e69746b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600706374726,
+          "stop" : 1600706378631,
+          "duration" : 3905
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a05d9caead6c5f40c7d08a927e69746b"
+    }, {
+      "name" : "38747@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "fceaee9137a9f623",
+        "parentUid" : "b75b4a1eb40376a45f3ad31f772ba4ea",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600706742444,
+          "stop" : 1600706761625,
+          "duration" : 19181
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "loginTest",
+        "uid" : "a966b3f2504230bb",
+        "parentUid" : "b75b4a1eb40376a45f3ad31f772ba4ea",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600706737231,
+          "stop" : 1600706737233,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b75b4a1eb40376a45f3ad31f772ba4ea"
+    }, {
+      "name" : "37780@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "6d66c9573694f778",
+        "parentUid" : "a4a726ca6052bad660097515d9a03bcd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600703334682,
+          "stop" : 1600703396866,
+          "duration" : 62184
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a4a726ca6052bad660097515d9a03bcd"
+    }, {
+      "name" : "41155@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "pricingMenuTest",
+        "uid" : "bcef0843ebd5415b",
+        "parentUid" : "3068ad491620559c8226f9a94358a198",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600748741843,
+          "stop" : 1600748801953,
+          "duration" : 60110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3068ad491620559c8226f9a94358a198"
+    }, {
+      "name" : "38431@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "signUpTest",
+        "uid" : "e2dcd1583ba0f5ab",
+        "parentUid" : "49861c4eae89ed8c4f5c31b2938827d9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600704941356,
+          "stop" : 1600704956410,
+          "duration" : 15054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "49861c4eae89ed8c4f5c31b2938827d9"
+    }, {
+      "name" : "38109@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "1c52855331994ab3",
+        "parentUid" : "db9e4cfa9d727dfc23f21eef671380f3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600704037115,
+          "stop" : 1600704050164,
+          "duration" : 13049
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "db9e4cfa9d727dfc23f21eef671380f3"
+    }, {
+      "name" : "37508@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "e0b95acf735ef10f",
+        "parentUid" : "74e6af6efaa713baa4ac50289f896091",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600702802293,
+          "stop" : 1600702817355,
+          "duration" : 15062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "4da315e7b3b7c144",
+        "parentUid" : "74e6af6efaa713baa4ac50289f896091",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600702752261,
+          "stop" : 1600702802225,
+          "duration" : 49964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "b09d51e2b7ce9e53",
+        "parentUid" : "74e6af6efaa713baa4ac50289f896091",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600702817368,
+          "stop" : 1600702832493,
+          "duration" : 15125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "74e6af6efaa713baa4ac50289f896091"
+    }, {
+      "name" : "39317@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "2dbd126c78c6cbb2",
+        "parentUid" : "2dcfd6a5d23718070d70efccaf230ec0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600710235720,
+          "stop" : 1600710270448,
+          "duration" : 34728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2dcfd6a5d23718070d70efccaf230ec0"
+    }, {
+      "name" : "30896@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "bb3d2287b69220a",
+        "parentUid" : "aa5f4c86b70dc42589b51bbba5dd01d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600657113627,
+          "stop" : 1600657129993,
+          "duration" : 16366
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa5f4c86b70dc42589b51bbba5dd01d1"
+    }, {
+      "name" : "39672@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "ce6ca96a2bd948cd",
+        "parentUid" : "3276f1a92c4340624800b3921249d027",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600713579429,
+          "stop" : 1600713602075,
+          "duration" : 22646
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3276f1a92c4340624800b3921249d027"
+    }, {
+      "name" : "27962@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "999f9d897a4b6916",
+        "parentUid" : "faecb235ef3542e6a24587f498cad970",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600627907657,
+          "stop" : 1600627910694,
+          "duration" : 3037
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "faecb235ef3542e6a24587f498cad970"
+    }, {
+      "name" : "39498@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "c7eefec84b882dfd",
+        "parentUid" : "28a778a522ce363aa09dc9794179344c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600712692977,
+          "stop" : 1600712729253,
+          "duration" : 36276
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "28a778a522ce363aa09dc9794179344c"
+    }, {
+      "name" : "39725@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "7d4b47c834cac931",
+        "parentUid" : "b0fa4042b06a8ee8b7bc773dc9a03012",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600713744904,
+          "stop" : 1600713768444,
+          "duration" : 23540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b0fa4042b06a8ee8b7bc773dc9a03012"
+    }, {
+      "name" : "30091@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "ed6ecbfca691a214",
+        "parentUid" : "c8eb035e26d68d5747c0f954ae99e40e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654973100,
+          "stop" : 1600654982287,
+          "duration" : 9187
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c8eb035e26d68d5747c0f954ae99e40e"
+    }, {
+      "name" : "29360@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "32b0de0ee4291214",
+        "parentUid" : "3e02a490ed3327b112619f58c7b7d47a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600653036401,
+          "stop" : 1600653042851,
+          "duration" : 6450
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e02a490ed3327b112619f58c7b7d47a"
+    }, {
+      "name" : "25986@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "b62e673910744cc7",
+        "parentUid" : "1da7bb6b2afcc8ec207fec0595e416c0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600551873857,
+          "stop" : 1600551881588,
+          "duration" : 7731
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1da7bb6b2afcc8ec207fec0595e416c0"
+    }, {
+      "name" : "30521@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "2799742a12e2f0a1",
+        "parentUid" : "0dc53a4c0b4d290712d8682319e22e1b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656279794,
+          "stop" : 1600656294874,
+          "duration" : 15080
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0dc53a4c0b4d290712d8682319e22e1b"
+    }, {
+      "name" : "52255@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "2a10270eeedbddd3",
+        "parentUid" : "255d2cbfde9a388a7a171a96da452f1c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600909994069,
+          "stop" : 1600909994075,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "255d2cbfde9a388a7a171a96da452f1c"
+    }, {
+      "name" : "29683@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "d463b21016b4c28d",
+        "parentUid" : "24e959f9bbf25de431be5f2194b25511",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600653921639,
+          "stop" : 1600653936723,
+          "duration" : 15084
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "24e959f9bbf25de431be5f2194b25511"
+    }, {
+      "name" : "27850@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "d4086a89f636f113",
+        "parentUid" : "a31b135042691b51cb1f78e671e64aa4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600626601217,
+          "stop" : 1600626609270,
+          "duration" : 8053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a31b135042691b51cb1f78e671e64aa4"
+    }, {
+      "name" : "37843@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "eadc6a027171a079",
+        "parentUid" : "f9eebcdab87f39bf6a8beda9b347b218",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600703567924,
+          "stop" : 1600703628882,
+          "duration" : 60958
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f9eebcdab87f39bf6a8beda9b347b218"
+    }, {
+      "name" : "39226@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "73d1fdb196fe3366",
+        "parentUid" : "3490f67d1bb7fa155fd50c0299fa3b89",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600710009095,
+          "stop" : 1600710030895,
+          "duration" : 21800
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3490f67d1bb7fa155fd50c0299fa3b89"
+    }, {
+      "name" : "29089@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "restPassword",
+        "uid" : "b430d76b71c09f58",
+        "parentUid" : "e71af21f03ae2b9d20a6281b1be6f02b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600652292600,
+          "stop" : 1600652300753,
+          "duration" : 8153
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e71af21f03ae2b9d20a6281b1be6f02b"
+    }, {
+      "name" : "29941@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "d544d8cbcace6bfb",
+        "parentUid" : "8b698d47f81894d412495e2e4fd8cf50",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600654591352,
+          "stop" : 1600654606438,
+          "duration" : 15086
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8b698d47f81894d412495e2e4fd8cf50"
+    }, {
+      "name" : "52053@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "84476f5b868f5754",
+        "parentUid" : "0aa621f33a301e27dac5df236d4fd328",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600909265090,
+          "stop" : 1600909265107,
+          "duration" : 17
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0aa621f33a301e27dac5df236d4fd328"
+    }, {
+      "name" : "37590@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "e7b0869a5b9b133c",
+        "parentUid" : "f6576cf55804b7098f33486f19a6224d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600702862403,
+          "stop" : 1600702912233,
+          "duration" : 49830
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f6576cf55804b7098f33486f19a6224d"
+    }, {
+      "name" : "38831@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "e251e4b130d331d9",
+        "parentUid" : "9cbe0898e487ef9efba96bcda72df061",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600707003864,
+          "stop" : 1600707022940,
+          "duration" : 19076
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9cbe0898e487ef9efba96bcda72df061"
+    }, {
+      "name" : "31370@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "4cad27f9c2fee4ff",
+        "parentUid" : "ca3f1bf35aa566da551beea2ff776ebc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600658452915,
+          "stop" : 1600658457877,
+          "duration" : 4962
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca3f1bf35aa566da551beea2ff776ebc"
+    }, {
+      "name" : "23447@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "writeForCommunityTest",
+        "uid" : "6c53fda0948da28",
+        "parentUid" : "14a21ad29410ca2a6b30df0e076e99c5",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600531449283,
+          "stop" : 1600531449285,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "14a21ad29410ca2a6b30df0e076e99c5"
+    }, {
+      "name" : "40153@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "ea4ff5b590fcafac",
+        "parentUid" : "e764631721913cba0dfb33af510ba6b7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600717322870,
+          "stop" : 1600717360735,
+          "duration" : 37865
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e764631721913cba0dfb33af510ba6b7"
+    }, {
+      "name" : "39863@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "489ee892a4707e99",
+        "parentUid" : "5e57a729c843f61c7d19a2c9393c02dd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600714046071,
+          "stop" : 1600714070341,
+          "duration" : 24270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5e57a729c843f61c7d19a2c9393c02dd"
+    }, {
+      "name" : "40306@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "2da6c1ec051ac7ab",
+        "parentUid" : "3b4cd847ff7ff66d4672602210843d4d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600717645337,
+          "stop" : 1600717685285,
+          "duration" : 39948
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3b4cd847ff7ff66d4672602210843d4d"
+    }, {
+      "name" : "31067@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "57c311f4f86bda8b",
+        "parentUid" : "5c5cc6b8cdb1ded2a19f80af7ed56e0f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600657509992,
+          "stop" : 1600657539545,
+          "duration" : 29553
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5c5cc6b8cdb1ded2a19f80af7ed56e0f"
+    }, {
+      "name" : "30767@macbook-pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "55ce43de93bbbe1f",
+        "parentUid" : "50c68ed371b581eb6034602f6f9aff91",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656706822,
+          "stop" : 1600656723291,
+          "duration" : 16469
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "50c68ed371b581eb6034602f6f9aff91"
+    } ],
+    "uid" : "45427d043511ae68e4401efdf1d10cf3"
+  }, {
+    "name" : "MacBook-Pro",
+    "children" : [ {
+      "name" : "21380@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "oddoTourTest",
+        "uid" : "a16781676a6ef3b2",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661045,
+          "stop" : 1600511661045,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "5538e848017c221c",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511660956,
+          "stop" : 1600511660958,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "6a094d9cf1895c8e",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661044,
+          "stop" : 1600511661044,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "97503364714772d5",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661030,
+          "stop" : 1600511661030,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "ac72f60415c9481e",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661034,
+          "stop" : 1600511661034,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "3f340efd0cbfc0ca",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661051,
+          "stop" : 1600511661051,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "212c4b68786fe08d",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661047,
+          "stop" : 1600511661047,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "46924bec32b4b885",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661038,
+          "stop" : 1600511661038,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "47217e82f515830",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661036,
+          "stop" : 1600511661036,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "82fc12731bbacc9b",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661042,
+          "stop" : 1600511661042,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "28290aac488d6827",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661032,
+          "stop" : 1600511661032,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "1f79e918037e90fa",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661040,
+          "stop" : 1600511661040,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "aba9c282ea96a7a8",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661049,
+          "stop" : 1600511661049,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "4c753d7e18b85de0",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511661028,
+          "stop" : 1600511661028,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "a3a3b1fdd0e7648b",
+        "parentUid" : "e3d579d0338d3b9f1deadb661dff776e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600511674427,
+          "stop" : 1600511703652,
+          "duration" : 29225
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3d579d0338d3b9f1deadb661dff776e"
+    }, {
+      "name" : "21311@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "1c7e024a2c183479",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547617,
+          "stop" : 1600511547617,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "67ab024d1b4f979d",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547451,
+          "stop" : 1600511547454,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "7aaad458c01c3802",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547602,
+          "stop" : 1600511547603,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "20adbcec278a5be7",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547660,
+          "stop" : 1600511547660,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "b39c3d620953c614",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547679,
+          "stop" : 1600511547679,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "5c5a5486422ef09c",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547639,
+          "stop" : 1600511547639,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "b4eedd478f909308",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547665,
+          "stop" : 1600511547665,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "fce1080a2cd8fcee",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547612,
+          "stop" : 1600511547613,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "85231c40d08dbfc8",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547621,
+          "stop" : 1600511547621,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "eb396e94c0f60c4",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547675,
+          "stop" : 1600511547675,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "3cb1c5d0d8b5e28f",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600511561592,
+          "stop" : 1600511561676,
+          "duration" : 84
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "c05840b50988b4d4",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547682,
+          "stop" : 1600511547682,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "942c46fa265c6e87",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547669,
+          "stop" : 1600511547669,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "95b92ed75b738c64",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547687,
+          "stop" : 1600511547687,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "1b89665ab3491ceb",
+        "parentUid" : "6a61d3a9d035c63c0eba7fd0adbef005",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600511547646,
+          "stop" : 1600511547646,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a61d3a9d035c63c0eba7fd0adbef005"
+    }, {
+      "name" : "22337@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "checkMyDatabase",
+        "uid" : "8473b10ca2f32c63",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809905,
+          "stop" : 1600517809905,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "2daf88bbe30fd7d4",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809913,
+          "stop" : 1600517809913,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "6b6c762aa7254ae2",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809910,
+          "stop" : 1600517809910,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "381d4e0b43ae9726",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809912,
+          "stop" : 1600517809912,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "16ea152c8be41825",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600517852333,
+          "stop" : 1600517852368,
+          "duration" : 35
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "a33d74110ec18c33",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809902,
+          "stop" : 1600517809902,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "2d189b0af1dac4b1",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809897,
+          "stop" : 1600517809897,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "f3b7fa771b56e75c",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809900,
+          "stop" : 1600517809900,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "2e8ed7549137e12d",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809894,
+          "stop" : 1600517809894,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "c86b1ce9d9a66211",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809904,
+          "stop" : 1600517809904,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "b906e58a4074296b",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600517822907,
+          "stop" : 1600517852327,
+          "duration" : 29420
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "aa1d6d72b4a8387a",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809907,
+          "stop" : 1600517809907,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "c9243f4d4d5835c0",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809899,
+          "stop" : 1600517809899,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "61d2aaec418e90d2",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809832,
+          "stop" : 1600517809834,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "bf67570fa1f5d3f9",
+        "parentUid" : "97c256d016969be7bfa9b1ed7180f590",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517809909,
+          "stop" : 1600517809909,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "97c256d016969be7bfa9b1ed7180f590"
+    }, {
+      "name" : "22477@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "signInPageTest",
+        "uid" : "8367ab140261eb8c",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014373,
+          "stop" : 1600518014373,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "7897118446c9eea0",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014384,
+          "stop" : 1600518014384,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "7a5360ac577026a5",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014368,
+          "stop" : 1600518014368,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "2c5aa9b21a06f574",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014381,
+          "stop" : 1600518014381,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "f548bd29dcac925c",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600518056108,
+          "stop" : 1600518059148,
+          "duration" : 3040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "980e5da2ca498aeb",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014383,
+          "stop" : 1600518014383,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "40788306dc6babba",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014365,
+          "stop" : 1600518014365,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "3bdec85bed4c541",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014378,
+          "stop" : 1600518014378,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "c09b8788c83e8aa5",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600518026691,
+          "stop" : 1600518056103,
+          "duration" : 29412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "ee8c223563632cec",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014306,
+          "stop" : 1600518014307,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "3aadf3d866ff8e7",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014380,
+          "stop" : 1600518014380,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "da3678c49d990e99",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014370,
+          "stop" : 1600518014370,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "32077b04e07e87ac",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014375,
+          "stop" : 1600518014375,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "d39392a2edd6dd61",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014371,
+          "stop" : 1600518014371,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "a12fdaeaf7f93833",
+        "parentUid" : "6cdc5565a409543153644cb39e2c6a6c",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518014376,
+          "stop" : 1600518014376,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6cdc5565a409543153644cb39e2c6a6c"
+    }, {
+      "name" : "50614@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "441d65bb59e656fa",
+        "parentUid" : "0c6a638eb2fc5a37318038676e4cd244",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600861093314,
+          "stop" : 1600861108429,
+          "duration" : 15115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "8fbd12ab86cda7a3",
+        "parentUid" : "0c6a638eb2fc5a37318038676e4cd244",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600861062054,
+          "stop" : 1600861093304,
+          "duration" : 31250
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "6e1fe12bf34efa5b",
+        "parentUid" : "0c6a638eb2fc5a37318038676e4cd244",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600861020731,
+          "stop" : 1600861061975,
+          "duration" : 41244
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0c6a638eb2fc5a37318038676e4cd244"
+    }, {
+      "name" : "50359@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "f7591252b3b8f0b4",
+        "parentUid" : "d41aa485a78727fe9445b7a24ecb9ad0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600859922916,
+          "stop" : 1600859954006,
+          "duration" : 31090
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "25ad297e73e274d",
+        "parentUid" : "d41aa485a78727fe9445b7a24ecb9ad0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600859954014,
+          "stop" : 1600859969175,
+          "duration" : 15161
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "469e6352d0ed90b8",
+        "parentUid" : "d41aa485a78727fe9445b7a24ecb9ad0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600859881016,
+          "stop" : 1600859922844,
+          "duration" : 41828
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d41aa485a78727fe9445b7a24ecb9ad0"
+    }, {
+      "name" : "22412@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "writeForCommunityTest",
+        "uid" : "522ffab7ca5936f8",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965634,
+          "stop" : 1600517965634,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "e08ccddd47baab5e",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965636,
+          "stop" : 1600517965636,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "7869ee5af5a8c1a4",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965650,
+          "stop" : 1600517965651,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "d001a1101684453b",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965624,
+          "stop" : 1600517965624,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "4223526936765b1c",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600517978551,
+          "stop" : 1600517999062,
+          "duration" : 20511
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "1fe92c8527f3ec69",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965540,
+          "stop" : 1600517965542,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "b65f1bc3ca816acc",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965621,
+          "stop" : 1600517965622,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "5acaaf18e3efdde2",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965641,
+          "stop" : 1600517965641,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "70298b64d6cacf96",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965649,
+          "stop" : 1600517965649,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "57ea44d963da999a",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965644,
+          "stop" : 1600517965644,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "933d6994f858b608",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965632,
+          "stop" : 1600517965632,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "a10fac9e996086c6",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965646,
+          "stop" : 1600517965646,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "2936e54f0ed1e568",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965642,
+          "stop" : 1600517965642,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "d6bfeff3aa10d5d",
+        "parentUid" : "90bba18e86390b4fa678bd2018777430",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600517965639,
+          "stop" : 1600517965639,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "90bba18e86390b4fa678bd2018777430"
+    }, {
+      "name" : "50872@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "6a3c3d05ab818edf",
+        "parentUid" : "046dde070d41d9ca36eb0de719dc229b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600862960663,
+          "stop" : 1600862991279,
+          "duration" : 30616
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "bbd9f631d4eb3d2b",
+        "parentUid" : "046dde070d41d9ca36eb0de719dc229b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600862991288,
+          "stop" : 1600863006394,
+          "duration" : 15106
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "582a6f043c2d6a82",
+        "parentUid" : "046dde070d41d9ca36eb0de719dc229b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600862939629,
+          "stop" : 1600862960590,
+          "duration" : 20961
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "046dde070d41d9ca36eb0de719dc229b"
+    }, {
+      "name" : "22589@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "writeForCommunityTest",
+        "uid" : "b0da186322646e11",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187975,
+          "stop" : 1600518187976,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "d0a2507bf108b221",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187972,
+          "stop" : 1600518187972,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "6b5d74f61e4e729a",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187988,
+          "stop" : 1600518187988,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "9985a023f5ea381a",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187909,
+          "stop" : 1600518187911,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "3b3a332f736b9549",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187969,
+          "stop" : 1600518187969,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "7d24da7c3d33ee1d",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187983,
+          "stop" : 1600518187983,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "9ee3c8136def2ffb",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187977,
+          "stop" : 1600518187977,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "cca08f1adf4fde70",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187974,
+          "stop" : 1600518187974,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "382fd0df9e797df1",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600518230300,
+          "stop" : 1600518238931,
+          "duration" : 8631
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "81d1820502be8a17",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187979,
+          "stop" : 1600518187979,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "cc69cccac70b3a72",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187982,
+          "stop" : 1600518187982,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "7ad84506cd4a52fb",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187980,
+          "stop" : 1600518187980,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "4201944ec64a86d1",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187987,
+          "stop" : 1600518187987,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "1ed982840b38612a",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600518187985,
+          "stop" : 1600518187985,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "96ecfed07b7d4296",
+        "parentUid" : "831f9d422c05c3753c93bb2f9e97f2c4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600518200859,
+          "stop" : 1600518230295,
+          "duration" : 29436
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "831f9d422c05c3753c93bb2f9e97f2c4"
+    }, {
+      "name" : "50517@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "4269ad9cb0468e97",
+        "parentUid" : "2b177e3933eefc3d6c0662fbd4d06961",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600860963596,
+          "stop" : 1600860966658,
+          "duration" : 3062
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "88c82f62e3f8ce8e",
+        "parentUid" : "2b177e3933eefc3d6c0662fbd4d06961",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600860966724,
+          "stop" : 1600860966735,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "a3dc46bef8eefb8b",
+        "parentUid" : "2b177e3933eefc3d6c0662fbd4d06961",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600860966742,
+          "stop" : 1600860966753,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b177e3933eefc3d6c0662fbd4d06961"
+    }, {
+      "name" : "45930@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "5b08402cd2d6f500",
+        "parentUid" : "b45a872f05a242467ffc202a3b427ee7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600770426146,
+          "stop" : 1600770426156,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "3cd53df89f9f2c4a",
+        "parentUid" : "b45a872f05a242467ffc202a3b427ee7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600770396304,
+          "stop" : 1600770426066,
+          "duration" : 29762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "986620e08615e1e8",
+        "parentUid" : "b45a872f05a242467ffc202a3b427ee7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600770426161,
+          "stop" : 1600770426170,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b45a872f05a242467ffc202a3b427ee7"
+    }, {
+      "name" : "50741@MacBook-Pro.main(1)",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "4d703647fccf3243",
+        "parentUid" : "ca5232d90cf399fbd606e1e1e3577f50",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600861705212,
+          "stop" : 1600861746979,
+          "duration" : 41767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ca5232d90cf399fbd606e1e1e3577f50"
+    } ],
+    "uid" : "19fe04bb1963b2371213bfd64048b0fa"
+  }, {
+    "name" : "MacBook-Pro.local",
+    "children" : [ {
+      "name" : "21989@MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "3afaadff882950c",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260162,
+          "stop" : 1600515260162,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "writeForCommunityTest",
+        "uid" : "5de1db27c9a6cc15",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260155,
+          "stop" : 1600515260155,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shoppingCartTest",
+        "uid" : "1bc30cfa54025b3",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260148,
+          "stop" : 1600515260148,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "createNewPipelineTest",
+        "uid" : "772474aabdbd15da",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260166,
+          "stop" : 1600515260166,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signInPageTest",
+        "uid" : "a528f806825670e7",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260159,
+          "stop" : 1600515260159,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "partnerDashboardTest",
+        "uid" : "73ac3a4a71d887e8",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260153,
+          "stop" : 1600515260153,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "signUpTest",
+        "uid" : "67042d5c359cf325",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260085,
+          "stop" : 1600515260087,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "ForgetPasswordTest",
+        "uid" : "ec89ce3560892e4f",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260174,
+          "stop" : 1600515260174,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "oddoTourTest",
+        "uid" : "6a89198eec1c8452",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260168,
+          "stop" : 1600515260168,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "footerLinkTest",
+        "uid" : "e30cf551a2a4eaa9",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260157,
+          "stop" : 1600515260157,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "tryForFreeTest",
+        "uid" : "59066eff8a1fb2a9",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260151,
+          "stop" : 1600515260151,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkMyDatabase",
+        "uid" : "f6f0896f775cbd45",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260164,
+          "stop" : 1600515260164,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "pricingMenuTest",
+        "uid" : "e533b1b3963607ff",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260170,
+          "stop" : 1600515260170,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "resetPasswordTest",
+        "uid" : "c1ac329ce6420c12",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600515260172,
+          "stop" : 1600515260172,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "aff4ad3eb5509a47",
+        "parentUid" : "a48efda40f452ae2d8588fdcbad2eea7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600515275572,
+          "stop" : 1600515305671,
+          "duration" : 30099
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a48efda40f452ae2d8588fdcbad2eea7"
+    }, {
+      "name" : "23229@MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "af3d52ec7a95d446",
+        "parentUid" : "e3e287d7231f0a53e341d0edf0e47d70",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600530978789,
+          "stop" : 1600530978790,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "scheduleDemoTest",
+        "uid" : "913bf53e6a5bf8fe",
+        "parentUid" : "e3e287d7231f0a53e341d0edf0e47d70",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600530978861,
+          "stop" : 1600530978864,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e3e287d7231f0a53e341d0edf0e47d70"
+    }, {
+      "name" : "23245@MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "odooGithubCommunityTest",
+        "uid" : "cd98216afef45819",
+        "parentUid" : "2082da36c3a7ea05a93bd308f2784b53",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600531045070,
+          "stop" : 1600531047139,
+          "duration" : 2069
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2082da36c3a7ea05a93bd308f2784b53"
+    }, {
+      "name" : "23217@MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "5070ed259ac6fca4",
+        "parentUid" : "ebaf37db206a45ec63d06a87ef3848b5",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1600530937387,
+          "stop" : 1600530937390,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "198b804b02160df",
+        "parentUid" : "ebaf37db206a45ec63d06a87ef3848b5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600530937269,
+          "stop" : 1600530937270,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ebaf37db206a45ec63d06a87ef3848b5"
+    } ],
+    "uid" : "e792a61be548a1d4ff631ca281f20c17"
+  } ]
+}

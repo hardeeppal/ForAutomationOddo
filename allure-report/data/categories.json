@@ -1,0 +1,278 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "element click intercepted: Element <a href=\"/web/about/facebook\">...</a> is not clickable at point (844, 467). Other element would receive the click: <img src=\"//odoocdn.com/openerp_website/static/src/img/2020/home/homepage-desktop.png\" class=\"o_banner_home_image float-right mt-5 mr-n4\" alt=\"Odoo - Project App - Tasks Dashboard\">\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:59956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 836dc33e60e0072796c4b7cefc20dd83",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "382fd0df9e797df1",
+        "parentUid" : "6f3f05788619055eae4befcf0c36d365",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600518230300,
+          "stop" : 1600518238931,
+          "duration" : 8631
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6f3f05788619055eae4befcf0c36d365"
+    }, {
+      "name" : "java.lang.NullPointerException",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "34a2d6332ccb0b1c",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600531644874,
+          "stop" : 1600531644874,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "eb218e6e4161a0a",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600531785103,
+          "stop" : 1600531785104,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "4541bbdaada03585",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600547422144,
+          "stop" : 1600547422145,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "setUp",
+        "uid" : "cc71c73ca145055b",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600655356723,
+          "stop" : 1600655356724,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "openOdooDocumentsPage",
+        "uid" : "326d6c9862d78726",
+        "parentUid" : "5592898b36d684905e31486a23088bda",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600910514648,
+          "stop" : 1600910514658,
+          "duration" : 10
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5592898b36d684905e31486a23088bda"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "children" : [ {
+        "name" : "doLogin",
+        "uid" : "8cd95cfc03c9a9ac",
+        "parentUid" : "8d770a31aa63530c814819ecfe32eea1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600656440128,
+          "stop" : 1600656440129,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8d770a31aa63530c814819ecfe32eea1"
+    }, {
+      "name" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63718}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bb322f1bed429f8edc82a813c9100ecb",
+      "children" : [ {
+        "name" : "setUp",
+        "uid" : "18a670acfee4ce18",
+        "parentUid" : "225da866d083e4f87baca3ecd39bd217",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600658993987,
+          "stop" : 1600658993989,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "225da866d083e4f87baca3ecd39bd217"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "children" : [ {
+        "name" : "doLogin",
+        "uid" : "8395fd977ba26587",
+        "parentUid" : "0f39567940d938609d708c93ace443e2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600659147253,
+          "stop" : 1600659147254,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "doLogin",
+        "uid" : "8ce9c9cc62b0a18f",
+        "parentUid" : "0f39567940d938609d708c93ace443e2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600659164311,
+          "stop" : 1600659164312,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0f39567940d938609d708c93ace443e2"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#top a[data-toggle='dropdown']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:49609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8fd20a231c0eadb76d19820ebec11f78\n*** Element info: {Using=css selector, value=#top a[data-toggle='dropdown']}",
+      "children" : [ {
+        "name" : "signUpTest",
+        "uid" : "e2dcd1583ba0f5ab",
+        "parentUid" : "d97bc61d429c132c0820bbcd823f0c4a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600704941356,
+          "stop" : 1600704956410,
+          "duration" : 15054
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d97bc61d429c132c0820bbcd823f0c4a"
+    }, {
+      "name" : "class com.sun.proxy.$Proxy20 cannot be cast to class org.openqa.selenium.interactions.internal.Locatable (com.sun.proxy.$Proxy20 and org.openqa.selenium.interactions.internal.Locatable are in unnamed module of loader 'app')",
+      "children" : [ {
+        "name" : "shoppingCartTest",
+        "uid" : "4fca356cdb90cf03",
+        "parentUid" : "b27cd4edde5b5700dc1e8e22df2a21d9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600747706672,
+          "stop" : 1600747765974,
+          "duration" : 59302
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b27cd4edde5b5700dc1e8e22df2a21d9"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#\\#part_5\\ \\+\\ h2\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:65321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9cec536f7fb0aee6746fba1c63696766\n*** Element info: {Using=id, value=#part_5 + h2}",
+      "children" : [ {
+        "name" : "tryForFreeTest",
+        "uid" : "559653ba4c0ada01",
+        "parentUid" : "1a3258737efd6911caf769b3cf10ba88",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600748927385,
+          "stop" : 1600748954796,
+          "duration" : 27411
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a3258737efd6911caf769b3cf10ba88"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#modal_143 > div > div > footer > button:nth-child(1) > span\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 01a29d1c55151b04b813942fd4ee46f6\n*** Element info: {Using=css selector, value=#modal_143 > div > div > footer > button:nth-child(1) > span}",
+      "children" : [ {
+        "name" : "createNewPipelineTest",
+        "uid" : "4d703647fccf3243",
+        "parentUid" : "f67242db4a5c0cc83c76fcb616859350",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600861705212,
+          "stop" : 1600861746979,
+          "duration" : 41767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f67242db4a5c0cc83c76fcb616859350"
+    }, {
+      "name" : "element click intercepted: Element <a href=\"/web/about/facebook\">...</a> is not clickable at point (844, 513). Other element would receive the click: <div class=\"clearfix oe_login_buttons text-center mb-1 pt-3\">...</div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53517}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 03a7a00bbbab87ac8cb8cb1499917fee",
+      "children" : [ {
+        "name" : "footerLinkTest",
+        "uid" : "ad18db801b73f655",
+        "parentUid" : "2ba40c67b895ca3ab7714aa03316b2fd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600919198776,
+          "stop" : 1600919210383,
+          "duration" : 11607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2ba40c67b895ca3ab7714aa03316b2fd"
+    }, {
+      "name" : "element click intercepted: Element <a class=\"float-left o_logo\" href=\"/\" style=\"position: relative; overflow: hidden;\"></a> is not clickable at point (196, 25). Other element would receive the click: <h6 class=\"o_social_push_notifications_permission_content_title pr-1\">...</h6>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53517}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 03a7a00bbbab87ac8cb8cb1499917fee",
+      "children" : [ {
+        "name" : "scheduleDemoTest",
+        "uid" : "3ce298028669168a",
+        "parentUid" : "9f474defe549f80b6b309bc4088bd1a1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600919210459,
+          "stop" : 1600919211571,
+          "duration" : 1112
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f474defe549f80b6b309bc4088bd1a1"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[class='dropdown-toggle']\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53517}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 03a7a00bbbab87ac8cb8cb1499917fee\n*** Element info: {Using=css selector, value=a[class='dropdown-toggle']}",
+      "children" : [ {
+        "name" : "partnerDashboardTest",
+        "uid" : "4229da1d67bfb8b4",
+        "parentUid" : "b36de64395b64e68096ac47ba249d89e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600919211578,
+          "stop" : 1600919226875,
+          "duration" : 15297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b36de64395b64e68096ac47ba249d89e"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

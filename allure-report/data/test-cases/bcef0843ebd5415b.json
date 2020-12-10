@@ -1,0 +1,125 @@
+{
+  "uid" : "bcef0843ebd5415b",
+  "name" : "pricingMenuTest",
+  "fullName" : "org.example.PricingPageTest.pricingMenuTest",
+  "historyId" : "1f6500400003ab6bb2a1426174a42db9",
+  "time" : {
+    "start" : 1600748741843,
+    "stop" : 1600748801953,
+    "duration" : 60110
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600748737075,
+      "stop" : 1600748741778,
+      "duration" : 4703
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.PricingPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.PricingPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "pricingMenuTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation copy"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.PricingPageTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "41155@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "2dac75e57a5d1556",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/2dac75e57a5d1556",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600748741843,
+          "stop" : 1600748801953,
+          "duration" : 60110
+        }
+      }, {
+        "uid" : "987ec6a760a1d9ce",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/987ec6a760a1d9ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600748741843,
+          "stop" : 1600748801953,
+          "duration" : 60110
+        }
+      }, {
+        "uid" : "27d581c55f96960",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/27d581c55f96960",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600748741843,
+          "stop" : 1600748801953,
+          "duration" : 60110
+        }
+      }, {
+        "uid" : "52b66d02b9c81287",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/52b66d02b9c81287",
+        "status" : "passed",
+        "time" : {
+          "start" : 1600748741843,
+          "stop" : 1600748801953,
+          "duration" : 60110
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "bcef0843ebd5415b.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,60 @@
+{
+  "uid" : "b39c3d620953c614",
+  "name" : "pricingMenuTest",
+  "fullName" : "org.example.SignUpPageTest.pricingMenuTest",
+  "historyId" : "26bc995316336ee82facd2a4328f51",
+  "time" : {
+    "start" : 1600511547679,
+    "stop" : 1600511547679,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "pricingMenuTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro"
+  }, {
+    "name" : "thread",
+    "value" : "21311@MacBook-Pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b39c3d620953c614.json",
+  "parameterValues" : [ ]
+}

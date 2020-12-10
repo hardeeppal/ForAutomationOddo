@@ -1,0 +1,76 @@
+{
+  "uid" : "f7591252b3b8f0b4",
+  "name" : "scheduleDemoTest",
+  "fullName" : "org.example.ScheduleDemoTest.scheduleDemoTest",
+  "historyId" : "9b13e269867b9f32bebb7916b63c210",
+  "time" : {
+    "start" : 1600859922916,
+    "stop" : 1600859954006,
+    "duration" : 31090
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600859870410,
+      "stop" : 1600859880944,
+      "duration" : 10534
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.ScheduleDemoTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.ScheduleDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "scheduleDemoTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Regression"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.ScheduleDemoTest"
+  }, {
+    "name" : "host",
+    "value" : "MacBook-Pro"
+  }, {
+    "name" : "thread",
+    "value" : "50359@MacBook-Pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7591252b3b8f0b4.json",
+  "parameterValues" : [ ]
+}

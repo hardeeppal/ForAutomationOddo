@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <test name="Regression">
+        <classes>
+            <class name="org.example.BasePageTest"/>
+            <class name="org.example.AppsDropDownPageTest"/>
+            <class name="org.example.OddoGithubCommunityTest"/>
+            <class name="org.example.ScheduleDemoTest"/>
+<!--            <class name="org.example.FooterLinkTest"/>-->
+            <class name="org.example.PricingPageTest"/>
+            <class name="org.example.AppsDropDownPageTest"/>
+            <class name="org.example.PartnerDashboardTest"/>
+            <class name="org.example.ShoppingCartTest"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->

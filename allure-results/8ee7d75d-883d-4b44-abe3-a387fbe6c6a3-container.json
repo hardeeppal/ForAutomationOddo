@@ -1,0 +1,1 @@
+{"uuid":"8ee7d75d-883d-4b44-abe3-a387fbe6c6a3","name":"org.example.SignUpPageTest","children":["b2c7eab2-d533-40dc-9f58-cd5c8d69a60b"],"befores":[{"name":"doLogin","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1600511663152,"stop":1600511674416}],"afters":[],"links":[],"start":1600511660880,"stop":1600511703667}

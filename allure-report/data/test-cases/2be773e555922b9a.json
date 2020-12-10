@@ -1,0 +1,213 @@
+{
+  "uid" : "2be773e555922b9a",
+  "name" : "signInPageTest",
+  "fullName" : "org.example.SignUpPageTest.signInPageTest",
+  "historyId" : "7bc07845da54130c6adbdc1acfd00e1b",
+  "time" : {
+    "start" : 1600748910450,
+    "stop" : 1600748910450,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "signInPageTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation copy"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.SignUpPageTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "41220@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "2326ef5ce02c0d44",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748002449,
+        "stop" : 1600748002449,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ff118bdb82a976bd",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600747690515,
+        "stop" : 1600747690515,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "7bbee3ead9f21be2",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600747479746,
+        "stop" : 1600747479746,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b68cd7d658fa76be",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600656410405,
+        "stop" : 1600656410405,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9710834a552ceff0",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600654267843,
+        "stop" : 1600654267843,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "5f0a186d873e5c84",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600654189295,
+        "stop" : 1600654189295,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9ee3c8136def2ffb",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600518187977,
+        "stop" : 1600518187977,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8367ab140261eb8c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600518014373,
+        "stop" : 1600518014373,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e08ccddd47baab5e",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600517965636,
+        "stop" : 1600517965636,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a33d74110ec18c33",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600517809902,
+        "stop" : 1600517809902,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a528f806825670e7",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600515260159,
+        "stop" : 1600515260159,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "46924bec32b4b885",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600511661038,
+        "stop" : 1600511661038,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1b89665ab3491ceb",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600511547646,
+        "stop" : 1600511547646,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 5,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "4c948ee603b1f678",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/4c948ee603b1f678",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910450,
+          "stop" : 1600748910450,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "905562f0a266a967",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/905562f0a266a967",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910450,
+          "stop" : 1600748910450,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "6bfd1c3fe86a557",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/6bfd1c3fe86a557",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910450,
+          "stop" : 1600748910450,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "a387ad85c5f4772b",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/a387ad85c5f4772b",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1600748910450,
+          "stop" : 1600748910450,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "2be773e555922b9a.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,29 @@
+[ {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 344776094
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 342878129
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 342736453
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "duration" : 341738875
+  }
+} ]

@@ -1,0 +1,128 @@
+{
+  "uid" : "cc71c73ca145055b",
+  "name" : "setUp",
+  "fullName" : "org.example.BasePageTest.setUp",
+  "historyId" : "fdb5df526f9b4336a08237f1eb2cf5fe",
+  "time" : {
+    "start" : 1600655356723,
+    "stop" : 1600655356724,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "statusMessage" : "java.lang.NullPointerException",
+  "statusTrace" : "java.lang.NullPointerException\n\tat org.example.BasePageTest.setUp(BasePageTest.java:60)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:564)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)\n\tat org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:63)\n\tat org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:348)\n\tat org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)\n\tat org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:619)\n\tat org.testng.TestRunner.beforeRun(TestRunner.java:609)\n\tat org.testng.TestRunner.run(TestRunner.java:580)\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:384)\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:286)\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1109)\n\tat org.testng.TestNG.runSuites(TestNG.java:1039)\n\tat org.testng.TestNG.run(TestNG.java:1007)\n\tat com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)\n\tat com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.MyDataBaseTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.MyDataBaseTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "setUp"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation copy"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.MyDataBaseTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "30247@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c6b5bf6e2df36ec3",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600655244701,
+        "stop" : 1600655244703,
+        "duration" : 2
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 5,
+        "skipped" : 0,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "bc063898b1697298",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/bc063898b1697298",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1600655356723,
+          "stop" : 1600655356724,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "ce37b8006522a2a",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/ce37b8006522a2a",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1600655356723,
+          "stop" : 1600655356724,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "21fcc956b98a6a51",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/21fcc956b98a6a51",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1600655356723,
+          "stop" : 1600655356724,
+          "duration" : 1
+        }
+      }, {
+        "uid" : "441f6c774ace3129",
+        "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/441f6c774ace3129",
+        "status" : "broken",
+        "statusDetails" : "java.lang.NullPointerException",
+        "time" : {
+          "start" : 1600655356723,
+          "stop" : 1600655356724,
+          "duration" : 1
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "cc71c73ca145055b.json",
+  "parameterValues" : [ ]
+}

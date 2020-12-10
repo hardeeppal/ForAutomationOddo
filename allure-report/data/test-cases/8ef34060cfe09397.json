@@ -1,0 +1,78 @@
+{
+  "uid" : "8ef34060cfe09397",
+  "name" : "openAppsDropdown",
+  "fullName" : "org.example.AppsDropDownPageTest.openAppsDropdown",
+  "historyId" : "b185a6bd9e07557b7ac61e68ae475ed9",
+  "time" : {
+    "start" : 1600879467125,
+    "stop" : 1600879467179,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600879460792,
+      "stop" : 1600879467061,
+      "duration" : 6269
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.AppsDropDownPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.AppsDropDownPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "openAppsDropdown"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation copy"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.AppsDropDownPageTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "51442@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ef34060cfe09397.json",
+  "parameterValues" : [ ]
+}

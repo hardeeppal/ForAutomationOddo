@@ -1,0 +1,1757 @@
+{
+  "7ffd1aeec511b2344bf397d121bd1b6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "5ff4e66cc73c2f09",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/5ff4e66cc73c2f09",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#\\#part_5\\ \\+\\ h2\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:65321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9cec536f7fb0aee6746fba1c63696766\n*** Element info: {Using=id, value=#part_5 + h2}",
+      "time" : {
+        "start" : 1600748927385,
+        "stop" : 1600748954796,
+        "duration" : 27411
+      }
+    }, {
+      "uid" : "4dfaead045400ca2",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/4dfaead045400ca2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#\\#part_5\\ \\+\\ h2\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:65321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9cec536f7fb0aee6746fba1c63696766\n*** Element info: {Using=id, value=#part_5 + h2}",
+      "time" : {
+        "start" : 1600748927385,
+        "stop" : 1600748954796,
+        "duration" : 27411
+      }
+    }, {
+      "uid" : "dd45b24db118098a",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/dd45b24db118098a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#\\#part_5\\ \\+\\ h2\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:65321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9cec536f7fb0aee6746fba1c63696766\n*** Element info: {Using=id, value=#part_5 + h2}",
+      "time" : {
+        "start" : 1600748927385,
+        "stop" : 1600748954796,
+        "duration" : 27411
+      }
+    }, {
+      "uid" : "7dc5035d841030be",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/7dc5035d841030be",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#\\#part_5\\ \\+\\ h2\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:65321}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9cec536f7fb0aee6746fba1c63696766\n*** Element info: {Using=id, value=#part_5 + h2}",
+      "time" : {
+        "start" : 1600748927385,
+        "stop" : 1600748954796,
+        "duration" : 27411
+      }
+    } ]
+  },
+  "105fef01f07f50e8d66b5e6065137f45" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 4,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "67e4d60e45a3c730",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/67e4d60e45a3c730",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440140,
+        "stop" : 1600656440143,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "98e7db991f6e3abf",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/98e7db991f6e3abf",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440140,
+        "stop" : 1600656440143,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "9dcc2743ea64cbdc",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/9dcc2743ea64cbdc",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440140,
+        "stop" : 1600656440143,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "608c56d9c95d5952",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/608c56d9c95d5952",
+      "status" : "skipped",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440140,
+        "stop" : 1600656440143,
+        "duration" : 3
+      }
+    } ]
+  },
+  "def447b830f3d5c7adea5e54bf2afe2f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "92462eed6ed85045",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/92462eed6ed85045",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910372,
+        "stop" : 1600748910374,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c8c014c0d23c0a84",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/c8c014c0d23c0a84",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910372,
+        "stop" : 1600748910374,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "38879bdd83253110",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/38879bdd83253110",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910372,
+        "stop" : 1600748910374,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "d90dd992450b3809",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/d90dd992450b3809",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910372,
+        "stop" : 1600748910374,
+        "duration" : 2
+      }
+    } ]
+  },
+  "11d49b5f4035e97fa22f973f489c7f0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "ece7faf503259e0b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/ece7faf503259e0b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910452,
+        "stop" : 1600748910452,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bef4726ebf6002ec",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/bef4726ebf6002ec",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910452,
+        "stop" : 1600748910452,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bbd84438ecf77f8d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/bbd84438ecf77f8d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910452,
+        "stop" : 1600748910452,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ea77de2e5b7e4a9c",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/ea77de2e5b7e4a9c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910452,
+        "stop" : 1600748910452,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9b13e269867b9f32bebb7916b63c210" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "313fdb1bb13a9546",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/313fdb1bb13a9546",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600862960663,
+        "stop" : 1600862991279,
+        "duration" : 30616
+      }
+    }, {
+      "uid" : "c0d2e2a596f7dbed",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/c0d2e2a596f7dbed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600861062054,
+        "stop" : 1600861093304,
+        "duration" : 31250
+      }
+    }, {
+      "uid" : "f8e73f109e16c8f5",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/f8e73f109e16c8f5",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 26e425831a753aac822f4a852a08ac7d",
+      "time" : {
+        "start" : 1600860966724,
+        "stop" : 1600860966735,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "73f5515b7ffcea36",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/73f5515b7ffcea36",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600859922916,
+        "stop" : 1600859954006,
+        "duration" : 31090
+      }
+    } ]
+  },
+  "87df2e7dafd52a5a7c236d90a471bd77" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "16c9efab9eaaa15b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/16c9efab9eaaa15b",
+      "status" : "broken",
+      "statusDetails" : "class com.sun.proxy.$Proxy20 cannot be cast to class org.openqa.selenium.interactions.internal.Locatable (com.sun.proxy.$Proxy20 and org.openqa.selenium.interactions.internal.Locatable are in unnamed module of loader 'app')",
+      "time" : {
+        "start" : 1600747706672,
+        "stop" : 1600747765974,
+        "duration" : 59302
+      }
+    }, {
+      "uid" : "a283220cb745d108",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/a283220cb745d108",
+      "status" : "broken",
+      "statusDetails" : "class com.sun.proxy.$Proxy20 cannot be cast to class org.openqa.selenium.interactions.internal.Locatable (com.sun.proxy.$Proxy20 and org.openqa.selenium.interactions.internal.Locatable are in unnamed module of loader 'app')",
+      "time" : {
+        "start" : 1600747706672,
+        "stop" : 1600747765974,
+        "duration" : 59302
+      }
+    }, {
+      "uid" : "eaa7322435a61e3f",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/eaa7322435a61e3f",
+      "status" : "broken",
+      "statusDetails" : "class com.sun.proxy.$Proxy20 cannot be cast to class org.openqa.selenium.interactions.internal.Locatable (com.sun.proxy.$Proxy20 and org.openqa.selenium.interactions.internal.Locatable are in unnamed module of loader 'app')",
+      "time" : {
+        "start" : 1600747706672,
+        "stop" : 1600747765974,
+        "duration" : 59302
+      }
+    }, {
+      "uid" : "fba13ebb98194a0f",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/fba13ebb98194a0f",
+      "status" : "broken",
+      "statusDetails" : "class com.sun.proxy.$Proxy20 cannot be cast to class org.openqa.selenium.interactions.internal.Locatable (com.sun.proxy.$Proxy20 and org.openqa.selenium.interactions.internal.Locatable are in unnamed module of loader 'app')",
+      "time" : {
+        "start" : 1600747706672,
+        "stop" : 1600747765974,
+        "duration" : 59302
+      }
+    } ]
+  },
+  "26bc995316336ee82facd2a4328f51" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "8e475fb01c2640ac",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/8e475fb01c2640ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748021311,
+        "stop" : 1600748065464,
+        "duration" : 44153
+      }
+    }, {
+      "uid" : "81f9aa64c37b4582",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/81f9aa64c37b4582",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748021311,
+        "stop" : 1600748065464,
+        "duration" : 44153
+      }
+    }, {
+      "uid" : "5220395dd2824884",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/5220395dd2824884",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748021311,
+        "stop" : 1600748065464,
+        "duration" : 44153
+      }
+    }, {
+      "uid" : "6d7dd16ad487f98b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/6d7dd16ad487f98b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748021311,
+        "stop" : 1600748065464,
+        "duration" : 44153
+      }
+    } ]
+  },
+  "ddb4b561b89d20bf481510ff9f6ea889" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "276d879b283bb108",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/276d879b283bb108",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659164311,
+        "stop" : 1600659164312,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "10b16fe6a5891776",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/10b16fe6a5891776",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659164311,
+        "stop" : 1600659164312,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "1995fd6a58c83a1a",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/1995fd6a58c83a1a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659164311,
+        "stop" : 1600659164312,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "35358135f53ad57b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/35358135f53ad57b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659164311,
+        "stop" : 1600659164312,
+        "duration" : 1
+      }
+    } ]
+  },
+  "177443ab7a612b3f814ca8427d0b7270" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "acda0458af11e9cb",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/acda0458af11e9cb",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600657993223,
+        "stop" : 1600657993225,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6e3f27b0fd9d9781",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/6e3f27b0fd9d9781",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600657993223,
+        "stop" : 1600657993225,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "4c963d92c687e439",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/4c963d92c687e439",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600657993223,
+        "stop" : 1600657993225,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "9351682e8af0c4cc",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/9351682e8af0c4cc",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600657993223,
+        "stop" : 1600657993225,
+        "duration" : 2
+      }
+    } ]
+  },
+  "54a535e1153963ab7668ec4a6daeed22" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "732a26e31a624771",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/732a26e31a624771",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600701465156,
+        "stop" : 1600701487847,
+        "duration" : 22691
+      }
+    }, {
+      "uid" : "7e7da0047e4426fc",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/7e7da0047e4426fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600701465156,
+        "stop" : 1600701487847,
+        "duration" : 22691
+      }
+    }, {
+      "uid" : "ea75045b802f8012",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/ea75045b802f8012",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600701465156,
+        "stop" : 1600701487847,
+        "duration" : 22691
+      }
+    }, {
+      "uid" : "e8368a2d78024152",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/e8368a2d78024152",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600701465156,
+        "stop" : 1600701487847,
+        "duration" : 22691
+      }
+    } ]
+  },
+  "2ce592d9e2434e5e9d13fb7be4ccbf68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "4ceb228c03774b1d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/4ceb228c03774b1d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910453,
+        "stop" : 1600748910453,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "aa8e4388e68f627b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/aa8e4388e68f627b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910453,
+        "stop" : 1600748910453,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "77a361f2b9e1a0c8",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/77a361f2b9e1a0c8",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910453,
+        "stop" : 1600748910453,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a4403ea52025a73b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/a4403ea52025a73b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910453,
+        "stop" : 1600748910453,
+        "duration" : 0
+      }
+    } ]
+  },
+  "fdb5df526f9b4336a08237f1eb2cf5fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "bc063898b1697298",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/bc063898b1697298",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600655356723,
+        "stop" : 1600655356724,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ce37b8006522a2a",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/ce37b8006522a2a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600655356723,
+        "stop" : 1600655356724,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "21fcc956b98a6a51",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/21fcc956b98a6a51",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600655356723,
+        "stop" : 1600655356724,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "441f6c774ace3129",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/441f6c774ace3129",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600655356723,
+        "stop" : 1600655356724,
+        "duration" : 1
+      }
+    } ]
+  },
+  "1fabc4ad719d5ac7b001b98f3e01a6ed" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "e82d922f13064e88",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/e82d922f13064e88",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600547422144,
+        "stop" : 1600547422145,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "6a6dbb546917d82a",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/6a6dbb546917d82a",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600547422144,
+        "stop" : 1600547422145,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9f9f004b0d691626",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/9f9f004b0d691626",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600547422144,
+        "stop" : 1600547422145,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2b740be94c951fe7",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/2b740be94c951fe7",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600547422144,
+        "stop" : 1600547422145,
+        "duration" : 1
+      }
+    } ]
+  },
+  "ef8922afb234d6ba838e770834839c4e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "2bb26a703fa9eb78",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/2bb26a703fa9eb78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600750027341,
+        "stop" : 1600750046497,
+        "duration" : 19156
+      }
+    }, {
+      "uid" : "24f546f0049f61f0",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/24f546f0049f61f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600750027341,
+        "stop" : 1600750046497,
+        "duration" : 19156
+      }
+    }, {
+      "uid" : "594fb2bf14883816",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/594fb2bf14883816",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600750027341,
+        "stop" : 1600750046497,
+        "duration" : 19156
+      }
+    }, {
+      "uid" : "2c470665b8f8c6c",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/2c470665b8f8c6c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600750027341,
+        "stop" : 1600750046497,
+        "duration" : 19156
+      }
+    } ]
+  },
+  "3cb588748844015252f08030ee6cb766" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "c7fbf6403df126b1",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/c7fbf6403df126b1",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910455,
+        "stop" : 1600748910455,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e12b2bfda264de2",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/e12b2bfda264de2",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910455,
+        "stop" : 1600748910455,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "436a917bb2639dfc",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/436a917bb2639dfc",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910455,
+        "stop" : 1600748910455,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ae06746c5b30098a",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/ae06746c5b30098a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910455,
+        "stop" : 1600748910455,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c32968d38cfb846995fe3bc118780d53" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "5b5b1da19594023c",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/5b5b1da19594023c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910446,
+        "stop" : 1600748910446,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "523183ff5a60865b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/523183ff5a60865b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910446,
+        "stop" : 1600748910446,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "69587bc581d8de1b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/69587bc581d8de1b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910446,
+        "stop" : 1600748910446,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "670558c9d3c27947",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/670558c9d3c27947",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910446,
+        "stop" : 1600748910446,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7bc07845da54130c6adbdc1acfd00e1b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "4c948ee603b1f678",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/4c948ee603b1f678",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910450,
+        "stop" : 1600748910450,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "905562f0a266a967",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/905562f0a266a967",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910450,
+        "stop" : 1600748910450,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6bfd1c3fe86a557",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/6bfd1c3fe86a557",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910450,
+        "stop" : 1600748910450,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a387ad85c5f4772b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/a387ad85c5f4772b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910450,
+        "stop" : 1600748910450,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8713b34ff0dcf21f6a5a5c1e8a2fb16b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "11e8becc21c62c2",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/11e8becc21c62c2",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63718}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bb322f1bed429f8edc82a813c9100ecb",
+      "time" : {
+        "start" : 1600658993987,
+        "stop" : 1600658993989,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "c867592fba4b4123",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/c867592fba4b4123",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63718}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bb322f1bed429f8edc82a813c9100ecb",
+      "time" : {
+        "start" : 1600658993987,
+        "stop" : 1600658993989,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "55a70a024bc78561",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/55a70a024bc78561",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63718}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bb322f1bed429f8edc82a813c9100ecb",
+      "time" : {
+        "start" : 1600658993987,
+        "stop" : 1600658993989,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "e48243437757a64c",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/e48243437757a64c",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63718}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: bb322f1bed429f8edc82a813c9100ecb",
+      "time" : {
+        "start" : 1600658993987,
+        "stop" : 1600658993989,
+        "duration" : 2
+      }
+    } ]
+  },
+  "a4a3d3d13ee9301c5087a7ad740e9c8d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "c8cf1f838c5e0572",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/c8cf1f838c5e0572",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440128,
+        "stop" : 1600656440129,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9e7253d7ea19d61f",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/9e7253d7ea19d61f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440128,
+        "stop" : 1600656440129,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "727e3e9a1899623a",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/727e3e9a1899623a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440128,
+        "stop" : 1600656440129,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "58d144285f582585",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/58d144285f582585",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:53449}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7de31f25fbd33b1ba7895dd902df14ff\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600656440128,
+        "stop" : 1600656440129,
+        "duration" : 1
+      }
+    } ]
+  },
+  "8f9e9650b7c66c6ca6298de94ad5ace4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "4b3408bd848253b4",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/4b3408bd848253b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706774399,
+        "stop" : 1600706782122,
+        "duration" : 7723
+      }
+    }, {
+      "uid" : "1fe40c648de7c0c8",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/1fe40c648de7c0c8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706774399,
+        "stop" : 1600706782122,
+        "duration" : 7723
+      }
+    }, {
+      "uid" : "93998e05d8c1201d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/93998e05d8c1201d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706774399,
+        "stop" : 1600706782122,
+        "duration" : 7723
+      }
+    }, {
+      "uid" : "d69a465f5125a3f8",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/d69a465f5125a3f8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706774399,
+        "stop" : 1600706782122,
+        "duration" : 7723
+      }
+    } ]
+  },
+  "5b35a54ffdeb489d3a7b092539d79fd7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "db38dd66433df1aa",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/db38dd66433df1aa",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910448,
+        "stop" : 1600748910448,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "27ef3533e1584d24",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/27ef3533e1584d24",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910448,
+        "stop" : 1600748910448,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "521b451129432cf2",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/521b451129432cf2",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910448,
+        "stop" : 1600748910448,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a005361f5a1f60b0",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/a005361f5a1f60b0",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910448,
+        "stop" : 1600748910448,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4e2d7147e614645fa940abd2efd44ea7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "c0e1375f2ffc5eae",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/c0e1375f2ffc5eae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706595239,
+        "stop" : 1600706604930,
+        "duration" : 9691
+      }
+    }, {
+      "uid" : "f6bcf6aa96e6351d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/f6bcf6aa96e6351d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706595239,
+        "stop" : 1600706604930,
+        "duration" : 9691
+      }
+    }, {
+      "uid" : "3f3a2bd64f84f4dc",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/3f3a2bd64f84f4dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706595239,
+        "stop" : 1600706604930,
+        "duration" : 9691
+      }
+    }, {
+      "uid" : "5cc476abc69eeafc",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/5cc476abc69eeafc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706595239,
+        "stop" : 1600706604930,
+        "duration" : 9691
+      }
+    } ]
+  },
+  "35f7423eafc3ecd82e2f39f48b0c019" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "ff49185785705891",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/ff49185785705891",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531644874,
+        "stop" : 1600531644874,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e35dc85c3bc68078",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/e35dc85c3bc68078",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531644874,
+        "stop" : 1600531644874,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "ca624c885d20cd72",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/ca624c885d20cd72",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531644874,
+        "stop" : 1600531644874,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a01c29c6017d7682",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/a01c29c6017d7682",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531644874,
+        "stop" : 1600531644874,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e3a1ffedc2d2be604e48963b9c0b2ba3" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "d81c0ba8211909dd",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/d81c0ba8211909dd",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910459,
+        "stop" : 1600748910459,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e7c00d09c29b3c",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/e7c00d09c29b3c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910459,
+        "stop" : 1600748910459,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "f3203a8bf5e6dc9d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/f3203a8bf5e6dc9d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910459,
+        "stop" : 1600748910459,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "531e3bb86f8cb7e6",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/531e3bb86f8cb7e6",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910459,
+        "stop" : 1600748910459,
+        "duration" : 0
+      }
+    } ]
+  },
+  "56501fcc67447d28236f17157bd1576c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "8b851604231c2215",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/8b851604231c2215",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a href=\"/web/about/facebook\">...</a> is not clickable at point (844, 467). Other element would receive the click: <img src=\"//odoocdn.com/openerp_website/static/src/img/2020/home/homepage-desktop.png\" class=\"o_banner_home_image float-right mt-5 mr-n4\" alt=\"Odoo - Project App - Tasks Dashboard\">\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:59956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 836dc33e60e0072796c4b7cefc20dd83",
+      "time" : {
+        "start" : 1600518230300,
+        "stop" : 1600518238931,
+        "duration" : 8631
+      }
+    }, {
+      "uid" : "ba85e2e27e8cdda8",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/ba85e2e27e8cdda8",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a href=\"/web/about/facebook\">...</a> is not clickable at point (844, 467). Other element would receive the click: <img src=\"//odoocdn.com/openerp_website/static/src/img/2020/home/homepage-desktop.png\" class=\"o_banner_home_image float-right mt-5 mr-n4\" alt=\"Odoo - Project App - Tasks Dashboard\">\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:59956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 836dc33e60e0072796c4b7cefc20dd83",
+      "time" : {
+        "start" : 1600518230300,
+        "stop" : 1600518238931,
+        "duration" : 8631
+      }
+    }, {
+      "uid" : "f842ab2956a0779d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/f842ab2956a0779d",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a href=\"/web/about/facebook\">...</a> is not clickable at point (844, 467). Other element would receive the click: <img src=\"//odoocdn.com/openerp_website/static/src/img/2020/home/homepage-desktop.png\" class=\"o_banner_home_image float-right mt-5 mr-n4\" alt=\"Odoo - Project App - Tasks Dashboard\">\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:59956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 836dc33e60e0072796c4b7cefc20dd83",
+      "time" : {
+        "start" : 1600518230300,
+        "stop" : 1600518238931,
+        "duration" : 8631
+      }
+    }, {
+      "uid" : "9ab66753beb358",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/9ab66753beb358",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a href=\"/web/about/facebook\">...</a> is not clickable at point (844, 467). Other element would receive the click: <img src=\"//odoocdn.com/openerp_website/static/src/img/2020/home/homepage-desktop.png\" class=\"o_banner_home_image float-right mt-5 mr-n4\" alt=\"Odoo - Project App - Tasks Dashboard\">\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:59956}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 836dc33e60e0072796c4b7cefc20dd83",
+      "time" : {
+        "start" : 1600518230300,
+        "stop" : 1600518238931,
+        "duration" : 8631
+      }
+    } ]
+  },
+  "965ece3398e0b05d3456450e30b159e6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "3d02bf49664f2",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/3d02bf49664f2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659147253,
+        "stop" : 1600659147254,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "dc1030f7f4f91178",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/dc1030f7f4f91178",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659147253,
+        "stop" : 1600659147254,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "864dba5fa9275e7e",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/864dba5fa9275e7e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659147253,
+        "stop" : 1600659147254,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "999ae205cfcbdc6a",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/999ae205cfcbdc6a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:64206}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8aee3860d078cc1fa1439b5b2705a93e\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600659147253,
+        "stop" : 1600659147254,
+        "duration" : 1
+      }
+    } ]
+  },
+  "fb3ffbe285474b594694d6f3c288a07a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "1bf68825f3783b4b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/1bf68825f3783b4b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910460,
+        "stop" : 1600748910460,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "262fb226abf09f25",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/262fb226abf09f25",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910460,
+        "stop" : 1600748910460,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e9d781795195f286",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/e9d781795195f286",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910460,
+        "stop" : 1600748910460,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "18fa52a769f4e76d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/18fa52a769f4e76d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910460,
+        "stop" : 1600748910460,
+        "duration" : 0
+      }
+    } ]
+  },
+  "f86b7b33bb835176e16241f56a775b7e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "eee9e0f87af38dc3",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/eee9e0f87af38dc3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600656080733,
+        "stop" : 1600656084612,
+        "duration" : 3879
+      }
+    }, {
+      "uid" : "cfa22e04c1610022",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/cfa22e04c1610022",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600656080733,
+        "stop" : 1600656084612,
+        "duration" : 3879
+      }
+    }, {
+      "uid" : "c130400f16125548",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/c130400f16125548",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600656080733,
+        "stop" : 1600656084612,
+        "duration" : 3879
+      }
+    }, {
+      "uid" : "b92c656694921108",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/b92c656694921108",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600656080733,
+        "stop" : 1600656084612,
+        "duration" : 3879
+      }
+    } ]
+  },
+  "fcadcbd249db6ee648158c673f253dbb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 4,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "f5071f2ad6baf2d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/f5071f2ad6baf2d",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910457,
+        "stop" : 1600748910457,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "8516d596200917b1",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/8516d596200917b1",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910457,
+        "stop" : 1600748910457,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "47a228d90c0f0c18",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/47a228d90c0f0c18",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910457,
+        "stop" : 1600748910457,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "9602dfdbb2de057b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/9602dfdbb2de057b",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1600748910457,
+        "stop" : 1600748910457,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ab284c4b1230bfe704b829985593f4de" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "77bc3e7032fed550",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/77bc3e7032fed550",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706782226,
+        "stop" : 1600706793801,
+        "duration" : 11575
+      }
+    }, {
+      "uid" : "ee06f5c265a2c5b8",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/ee06f5c265a2c5b8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706782226,
+        "stop" : 1600706793801,
+        "duration" : 11575
+      }
+    }, {
+      "uid" : "9fb5e16ab99a6985",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/9fb5e16ab99a6985",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706782226,
+        "stop" : 1600706793801,
+        "duration" : 11575
+      }
+    }, {
+      "uid" : "4b63135441adc7bf",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/4b63135441adc7bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600706782226,
+        "stop" : 1600706793801,
+        "duration" : 11575
+      }
+    } ]
+  },
+  "b7cba9c6bd089be02673a31e55f03699" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "55bc2a45834a2119",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/55bc2a45834a2119",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:50896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 0d75db2126167b0684852c0f6e6e18d9\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600862991288,
+        "stop" : 1600863006394,
+        "duration" : 15106
+      }
+    }, {
+      "uid" : "cb4525926ceedbba",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/cb4525926ceedbba",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63422}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 0fc56663531b453baaa3b66f8ac8c23c\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600861093314,
+        "stop" : 1600861108429,
+        "duration" : 15115
+      }
+    }, {
+      "uid" : "32c7f84d48c3fcdb",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/32c7f84d48c3fcdb",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 26e425831a753aac822f4a852a08ac7d\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600860966742,
+        "stop" : 1600860966753,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "a1aabeb2df01351f",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/a1aabeb2df01351f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"a[href='/web/login']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:62792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 22a361a41ede12c0e0a3b2be29344e2b\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600859954014,
+        "stop" : 1600859969175,
+        "duration" : 15161
+      }
+    } ]
+  },
+  "f593c032898e2fbbf600699e2b081786" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "2ec178c97b731453",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/2ec178c97b731453",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#modal_143 > div > div > footer > button:nth-child(1) > span\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 01a29d1c55151b04b813942fd4ee46f6\n*** Element info: {Using=css selector, value=#modal_143 > div > div > footer > button:nth-child(1) > span}",
+      "time" : {
+        "start" : 1600861705212,
+        "stop" : 1600861746979,
+        "duration" : 41767
+      }
+    }, {
+      "uid" : "c77409c389e65c00",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/c77409c389e65c00",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#modal_143 > div > div > footer > button:nth-child(1) > span\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:56952}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 509e1d52f1e10315b200f1f667dfc22b\n*** Element info: {Using=css selector, value=#modal_143 > div > div > footer > button:nth-child(1) > span}",
+      "time" : {
+        "start" : 1600717645337,
+        "stop" : 1600717685285,
+        "duration" : 39948
+      }
+    }, {
+      "uid" : "d6c3a56729f09753",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/d6c3a56729f09753",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#modal_143 > div > div > footer > button:nth-child(1) > span\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:56952}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 509e1d52f1e10315b200f1f667dfc22b\n*** Element info: {Using=css selector, value=#modal_143 > div > div > footer > button:nth-child(1) > span}",
+      "time" : {
+        "start" : 1600717645337,
+        "stop" : 1600717685285,
+        "duration" : 39948
+      }
+    }, {
+      "uid" : "31139aa0eb09510",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/31139aa0eb09510",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#modal_143 > div > div > footer > button:nth-child(1) > span\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:56952}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 509e1d52f1e10315b200f1f667dfc22b\n*** Element info: {Using=css selector, value=#modal_143 > div > div > footer > button:nth-child(1) > span}",
+      "time" : {
+        "start" : 1600717645337,
+        "stop" : 1600717685285,
+        "duration" : 39948
+      }
+    } ]
+  },
+  "b0dff6ce6c00b43fcb513ed77a4fe2ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "e3c45657b52d39a7",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/e3c45657b52d39a7",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531785103,
+        "stop" : 1600531785104,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ac3c4cead3c40bae",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/ac3c4cead3c40bae",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531785103,
+        "stop" : 1600531785104,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "ddea0c737dbaf61d",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/ddea0c737dbaf61d",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531785103,
+        "stop" : 1600531785104,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "bb8dabed2f85a89c",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/bb8dabed2f85a89c",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1600531785103,
+        "stop" : 1600531785104,
+        "duration" : 1
+      }
+    } ]
+  },
+  "956d132ce57aa37f2d4be324ce45fdd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "aecfdcfc126c4e84",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/aecfdcfc126c4e84",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <i class=\"fa fa-twitter\"></i> is not clickable at point (868, 510). Other element would receive the click: <button type=\"submit\" class=\"btn btn-primary float-left\" style=\"position: relative; overflow: hidden;\">...</button>\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:50896}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 0d75db2126167b0684852c0f6e6e18d9",
+      "time" : {
+        "start" : 1600862939629,
+        "stop" : 1600862960590,
+        "duration" : 20961
+      }
+    }, {
+      "uid" : "5bb17cac13779c1f",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/5bb17cac13779c1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600861020731,
+        "stop" : 1600861061975,
+        "duration" : 41244
+      }
+    }, {
+      "uid" : "a8a4e23e4e105483",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/a8a4e23e4e105483",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.102)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'MacBook-Pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:63331}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 26e425831a753aac822f4a852a08ac7d\n*** Element info: {Using=css selector, value=a[href='/web/login']}",
+      "time" : {
+        "start" : 1600860963596,
+        "stop" : 1600860966658,
+        "duration" : 3062
+      }
+    }, {
+      "uid" : "f0a7d630e10e2f42",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/f0a7d630e10e2f42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600859881016,
+        "stop" : 1600859922844,
+        "duration" : 41828
+      }
+    } ]
+  },
+  "1f6500400003ab6bb2a1426174a42db9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "2dac75e57a5d1556",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/2dac75e57a5d1556",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748741843,
+        "stop" : 1600748801953,
+        "duration" : 60110
+      }
+    }, {
+      "uid" : "987ec6a760a1d9ce",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/987ec6a760a1d9ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748741843,
+        "stop" : 1600748801953,
+        "duration" : 60110
+      }
+    }, {
+      "uid" : "27d581c55f96960",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/27d581c55f96960",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748741843,
+        "stop" : 1600748801953,
+        "duration" : 60110
+      }
+    }, {
+      "uid" : "52b66d02b9c81287",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/52b66d02b9c81287",
+      "status" : "passed",
+      "time" : {
+        "start" : 1600748741843,
+        "stop" : 1600748801953,
+        "duration" : 60110
+      }
+    } ]
+  },
+  "8bbd57ffcac94d63982a7051383bb81b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 4,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "cf8d8012831f186b",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure/#testresult/cf8d8012831f186b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#top a[data-toggle='dropdown']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:49609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8fd20a231c0eadb76d19820ebec11f78\n*** Element info: {Using=css selector, value=#top a[data-toggle='dropdown']}",
+      "time" : {
+        "start" : 1600704941356,
+        "stop" : 1600704956410,
+        "duration" : 15054
+      }
+    }, {
+      "uid" : "4545629f566edfe5",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure/#testresult/4545629f566edfe5",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#top a[data-toggle='dropdown']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:49609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8fd20a231c0eadb76d19820ebec11f78\n*** Element info: {Using=css selector, value=#top a[data-toggle='dropdown']}",
+      "time" : {
+        "start" : 1600704941356,
+        "stop" : 1600704956410,
+        "duration" : 15054
+      }
+    }, {
+      "uid" : "a32238f7b48b3618",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure/#testresult/a32238f7b48b3618",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#top a[data-toggle='dropdown']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:49609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8fd20a231c0eadb76d19820ebec11f78\n*** Element info: {Using=css selector, value=#top a[data-toggle='dropdown']}",
+      "time" : {
+        "start" : 1600704941356,
+        "stop" : 1600704956410,
+        "duration" : 15054
+      }
+    }, {
+      "uid" : "a48e548207a9fac0",
+      "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure/#testresult/a48e548207a9fac0",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#top a[data-toggle='dropdown']\"}\n  (Session info: chrome=85.0.4183.102)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'macbook-pro', ip: 'fe80:0:0:0:c3e:da48:bf37:7899%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.102, chrome: {chromedriverVersion: 84.0.4147.30 (48b3e868b4cc0..., userDataDir: /var/folders/xl/4f38911s4mz...}, goog:chromeOptions: {debuggerAddress: localhost:49609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8fd20a231c0eadb76d19820ebec11f78\n*** Element info: {Using=css selector, value=#top a[data-toggle='dropdown']}",
+      "time" : {
+        "start" : 1600704941356,
+        "stop" : 1600704956410,
+        "duration" : 15054
+      }
+    } ]
+  }
+}

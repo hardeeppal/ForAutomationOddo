@@ -1,0 +1,76 @@
+{
+  "uid" : "104309600d4e1bfa",
+  "name" : "restPassword",
+  "fullName" : "org.example.SignInPageTest.restPassword",
+  "historyId" : "ab284c4b1230bfe704b829985593f4de",
+  "time" : {
+    "start" : 1600630121285,
+    "stop" : 1600630126186,
+    "duration" : 4901
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600630109686,
+      "stop" : 1600630114502,
+      "duration" : 4816
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.SignInPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.SignInPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "restPassword"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation copy"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.SignInPageTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "28444@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "104309600d4e1bfa.json",
+  "parameterValues" : [ ]
+}

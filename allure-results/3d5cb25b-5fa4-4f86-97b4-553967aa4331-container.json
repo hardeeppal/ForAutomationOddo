@@ -1,0 +1,1 @@
+{"uuid":"3d5cb25b-5fa4-4f86-97b4-553967aa4331","name":"org.example.ScheduleDemoTest","children":["12975b2c-9291-483a-a540-e78570cbee61"],"befores":[{"name":"doLogin","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1600546781894,"stop":1600546781894}],"afters":[],"links":[],"start":1600546774633,"stop":1600546781939}

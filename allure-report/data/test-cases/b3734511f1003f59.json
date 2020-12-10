@@ -1,0 +1,76 @@
+{
+  "uid" : "b3734511f1003f59",
+  "name" : "signUpPageTest",
+  "fullName" : "org.example.RegisterPageTest.signUpPageTest",
+  "historyId" : "4e2d7147e614645fa940abd2efd44ea7",
+  "time" : {
+    "start" : 1600706510363,
+    "stop" : 1600706521128,
+    "duration" : 10765
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setUp",
+    "time" : {
+      "start" : 1600706506203,
+      "stop" : 1600706510309,
+      "duration" : 4106
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.RegisterPageTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.RegisterPageTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "signUpPageTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Default Suite"
+  }, {
+    "name" : "suite",
+    "value" : "OddoWebsiteAutomation copy"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.RegisterPageTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "38654@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b3734511f1003f59.json",
+  "parameterValues" : [ ]
+}

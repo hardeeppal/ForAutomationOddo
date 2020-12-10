@@ -1,0 +1,1 @@
+{"uuid":"508b0561-bcdc-44e4-a3d9-6734dcf164c7","name":"org.example.OddoGithubCommunityTest","children":["a9ac7acf-b48f-4499-8ac5-384bbfadf920"],"befores":[{"name":"doLogin","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1600701414385,"stop":1600701423033}],"afters":[],"links":[],"start":1600701408405,"stop":1600701438297}

@@ -1,0 +1,61 @@
+[ {
+  "buildOrder" : 5,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/5/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 17,
+    "skipped" : 1,
+    "passed" : 9,
+    "unknown" : 11,
+    "total" : 38
+  }
+}, {
+  "buildOrder" : 4,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/4/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 15,
+    "skipped" : 1,
+    "passed" : 9,
+    "unknown" : 11,
+    "total" : 36
+  }
+}, {
+  "buildOrder" : 3,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/3/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 14,
+    "skipped" : 1,
+    "passed" : 10,
+    "unknown" : 11,
+    "total" : 36
+  }
+}, {
+  "buildOrder" : 2,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/2/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 16,
+    "skipped" : 1,
+    "passed" : 8,
+    "unknown" : 11,
+    "total" : 36
+  }
+}, {
+  "buildOrder" : 1,
+  "reportUrl" : "http://localhost:8080/job/oddoregisterwithJenkins/1/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "failed" : 0,
+    "broken" : 14,
+    "skipped" : 1,
+    "passed" : 10,
+    "unknown" : 11,
+    "total" : 36
+  }
+} ]

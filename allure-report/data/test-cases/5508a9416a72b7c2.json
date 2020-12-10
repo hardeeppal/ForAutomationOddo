@@ -1,0 +1,60 @@
+{
+  "uid" : "5508a9416a72b7c2",
+  "name" : "writeForCommunityTest",
+  "fullName" : "org.example.WriteForCommunityTest.writeForCommunityTest",
+  "historyId" : "177443ab7a612b3f814ca8427d0b7270",
+  "time" : {
+    "start" : 1600531946487,
+    "stop" : 1600531946488,
+    "duration" : 1
+  },
+  "status" : "unknown",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "org.example.WriteForCommunityTest"
+  }, {
+    "name" : "testClass",
+    "value" : "org.example.WriteForCommunityTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "writeForCommunityTest"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Regression"
+  }, {
+    "name" : "subSuite",
+    "value" : "org.example.WriteForCommunityTest"
+  }, {
+    "name" : "host",
+    "value" : "macbook-pro"
+  }, {
+    "name" : "thread",
+    "value" : "23748@macbook-pro.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5508a9416a72b7c2.json",
+  "parameterValues" : [ ]
+}

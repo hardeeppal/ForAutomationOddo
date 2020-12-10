@@ -1,0 +1,381 @@
+[ {
+  "uid" : "3b847a89f7d8cb33",
+  "name" : "odooGithubCommunityTest",
+  "time" : {
+    "start" : 1600701465156,
+    "stop" : 1600701487847,
+    "duration" : 22691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "91536824f20320c1",
+  "name" : "signUpTest",
+  "time" : {
+    "start" : 1600748910372,
+    "stop" : 1600748910374,
+    "duration" : 2
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "34a2d6332ccb0b1c",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1600531644874,
+    "stop" : 1600531644874,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cc71c73ca145055b",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1600655356723,
+    "stop" : 1600655356724,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3ce298028669168a",
+  "name" : "scheduleDemoTest",
+  "time" : {
+    "start" : 1600919210459,
+    "stop" : 1600919211571,
+    "duration" : 1112
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "559653ba4c0ada01",
+  "name" : "tryForFreeTest",
+  "time" : {
+    "start" : 1600748927385,
+    "stop" : 1600748954796,
+    "duration" : 27411
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8cd95cfc03c9a9ac",
+  "name" : "doLogin",
+  "time" : {
+    "start" : 1600656440128,
+    "stop" : 1600656440129,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8395fd977ba26587",
+  "name" : "doLogin",
+  "time" : {
+    "start" : 1600659147253,
+    "stop" : 1600659147254,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "382fd0df9e797df1",
+  "name" : "footerLinkTest",
+  "time" : {
+    "start" : 1600518230300,
+    "stop" : 1600518238931,
+    "duration" : 8631
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "326d6c9862d78726",
+  "name" : "openOdooDocumentsPage",
+  "time" : {
+    "start" : 1600910514648,
+    "stop" : 1600910514658,
+    "duration" : 10
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ffcbc2ec426cfac4",
+  "name" : "writeForCommunityTest",
+  "time" : {
+    "start" : 1600748910448,
+    "stop" : 1600748910448,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "18a670acfee4ce18",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1600658993987,
+    "stop" : 1600658993989,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8ef34060cfe09397",
+  "name" : "openAppsDropdown",
+  "time" : {
+    "start" : 1600879467125,
+    "stop" : 1600879467179,
+    "duration" : 54
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eb218e6e4161a0a",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1600531785103,
+    "stop" : 1600531785104,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2053219bedbf04b",
+  "name" : "createNewPipelineTest",
+  "time" : {
+    "start" : 1600748910455,
+    "stop" : 1600748910455,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "bcef0843ebd5415b",
+  "name" : "pricingMenuTest",
+  "time" : {
+    "start" : 1600748741843,
+    "stop" : 1600748801953,
+    "duration" : 60110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ba8a7e36837226a",
+  "name" : "resetPasswordTest",
+  "time" : {
+    "start" : 1600748910459,
+    "stop" : 1600748910459,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "26071e99a2b1abe5",
+  "name" : "checkMyDatabase",
+  "time" : {
+    "start" : 1600656080733,
+    "stop" : 1600656084612,
+    "duration" : 3879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79321aea3015afaa",
+  "name" : "loginTest",
+  "time" : {
+    "start" : 1600706774399,
+    "stop" : 1600706782122,
+    "duration" : 7723
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5769b2ddd042e398",
+  "name" : "signUpPageTest",
+  "time" : {
+    "start" : 1600706595239,
+    "stop" : 1600706604930,
+    "duration" : 9691
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2be773e555922b9a",
+  "name" : "signInPageTest",
+  "time" : {
+    "start" : 1600748910450,
+    "stop" : 1600748910450,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "8ce9c9cc62b0a18f",
+  "name" : "doLogin",
+  "time" : {
+    "start" : 1600659164311,
+    "stop" : 1600659164312,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4229da1d67bfb8b4",
+  "name" : "partnerDashboardTest",
+  "time" : {
+    "start" : 1600919211578,
+    "stop" : 1600919226875,
+    "duration" : 15297
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4fca356cdb90cf03",
+  "name" : "shoppingCartTest",
+  "time" : {
+    "start" : 1600747706672,
+    "stop" : 1600747765974,
+    "duration" : 59302
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e52f5efae3a5e08",
+  "name" : "tryForFreeOptionTest",
+  "time" : {
+    "start" : 1600750027341,
+    "stop" : 1600750046497,
+    "duration" : 19156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20828f45285d6f81",
+  "name" : "odooGithubCommunityTest",
+  "time" : {
+    "start" : 1600748910452,
+    "stop" : 1600748910452,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "4d703647fccf3243",
+  "name" : "createNewPipelineTest",
+  "time" : {
+    "start" : 1600861705212,
+    "stop" : 1600861746979,
+    "duration" : 41767
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4541bbdaada03585",
+  "name" : "setUp",
+  "time" : {
+    "start" : 1600547422144,
+    "stop" : 1600547422145,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5ca1ce51eb0b3fd",
+  "name" : "partnerDashboardTest",
+  "time" : {
+    "start" : 1600748910446,
+    "stop" : 1600748910446,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "556e25cf00de05ec",
+  "name" : "restPassword",
+  "time" : {
+    "start" : 1600706782226,
+    "stop" : 1600706793801,
+    "duration" : 11575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71fd8119a0ecbc4f",
+  "name" : "pricingMenuTest",
+  "time" : {
+    "start" : 1600748021311,
+    "stop" : 1600748065464,
+    "duration" : 44153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c7a0b2b02a0eaa8",
+  "name" : "scheduleDemoTest",
+  "time" : {
+    "start" : 1600656440140,
+    "stop" : 1600656440143,
+    "duration" : 3
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ad18db801b73f655",
+  "name" : "footerLinkTest",
+  "time" : {
+    "start" : 1600919198776,
+    "stop" : 1600919210383,
+    "duration" : 11607
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a792df29c4175ba8",
+  "name" : "ForgetPasswordTest",
+  "time" : {
+    "start" : 1600748910460,
+    "stop" : 1600748910460,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "d30780f5f846df80",
+  "name" : "writeForCommunityTest",
+  "time" : {
+    "start" : 1600657993223,
+    "stop" : 1600657993225,
+    "duration" : 2
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "86ffd7621d2b130c",
+  "name" : "checkMyDatabase",
+  "time" : {
+    "start" : 1600748910453,
+    "stop" : 1600748910453,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "7a23ffb7c2807dfb",
+  "name" : "oddoTourTest",
+  "time" : {
+    "start" : 1600748910457,
+    "stop" : 1600748910457,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "e2dcd1583ba0f5ab",
+  "name" : "signUpTest",
+  "time" : {
+    "start" : 1600704941356,
+    "stop" : 1600704956410,
+    "duration" : 15054
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
